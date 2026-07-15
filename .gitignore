@@ -1,0 +1,11 @@
+.venv/
+evo2.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+activations_debug.log
+
+# SAE large data files (too large for GitHub)
+SAE/*.pkl
+SAE/features/*.npz
+SAE/features/feature_11876_small.png
