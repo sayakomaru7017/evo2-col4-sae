@@ -9,3 +9,6 @@ activations_debug.log
 SAE/*.pkl
 SAE/features/*.npz
 SAE/features/feature_11876_small.png
+
+# XLAS cached reference sequence (regenerable via Ensembl fetch)
+XLAS/*.pkl

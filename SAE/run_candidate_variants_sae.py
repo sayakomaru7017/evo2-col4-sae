@@ -65,8 +65,8 @@ def build_mutant_seq(wt_seq: str, meta: dict, genomic_pos: int, ref: str, alt: s
     return mut_seq, local
 
 
-def main():
-    df = pd.read_csv(CSV_PATH)
+def main(csv_path=CSV_PATH, manifest_name="candidate_variants_manifest.csv"):
+    df = pd.read_csv(csv_path)
     seqs = pickle.load(open(base.SEQ_PKL, "rb"))
 
     print("Loading evo2_7b_262k ...")
@@ -136,7 +136,7 @@ def main():
             torch.cuda.empty_cache()
 
     mf = pd.DataFrame(manifest)
-    mf.to_csv(os.path.join(OUT_DIR, "candidate_variants_manifest.csv"), index=False)
+    mf.to_csv(os.path.join(OUT_DIR, manifest_name), index=False)
     print("\n=== Manifest ===")
     print(mf.to_string(index=False))
     print(f"\nPeak GPU memory: {torch.cuda.max_memory_allocated()/1e9:.2f} GB")

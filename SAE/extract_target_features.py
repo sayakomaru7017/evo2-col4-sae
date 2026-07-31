@@ -18,7 +18,8 @@ import pandas as pd
 
 OUT_DIR  = "SAE/features"
 FEATURES = [11735, 9170, 5026]
-GENES    = ["COL4A3", "COL4A4", "COL4A5"]
+GENES    = ["COL4A3", "COL4A4", "COL4A5", "LAMB2", "NID1", "NPHS1", "APOL1", "NPHS2",
+            "HTT", "FMR1", "DMPK", "FXN", "CNBP", "C9orf72", "LORICRIN", "ELN", "TPM1"]
 
 
 def save_filtered_npz(npz, out_path):
