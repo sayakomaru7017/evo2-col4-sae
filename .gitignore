@@ -5,10 +5,15 @@ __pycache__/
 *.pyo
 activations_debug.log
 
-# SAE large data files (too large for GitHub)
+# SAE large data files (too large for GitHub) -- catches nested dirs too
+# (e.g. SAE/features/GLy edge variant/, benign Gly/)
 SAE/*.pkl
-SAE/features/*.npz
+**/*.npz
 SAE/features/feature_11876_small.png
 
 # XLAS cached reference sequence (regenerable via Ensembl fetch)
 XLAS/*.pkl
+delta likelihoods/*.pkl
+
+# Copyrighted published journal articles (source papers, not our work)
+XLAS/論文組入/

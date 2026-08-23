@@ -1,0 +1,5 @@
+gene,protein_change,clinvar_classification,GRCh38_chr,GRCh38_pos,ref,alt,evo2_delta_score
+COL4A5,p.Gly953Val,,X,108622766,G,T,
+COL4A3,p.Gly43Arg,,2,227238007,G,C,
+COL4A4,p.Gly545Ala,,2,227082177,C,G,
+COL4A4,p.Gly999Glu,,2,227051131,C,T,

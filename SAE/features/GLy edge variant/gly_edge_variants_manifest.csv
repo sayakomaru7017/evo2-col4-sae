@@ -1,0 +1,16 @@
+gene,protein_change,aa_tag,npz,skipped
+COL4A5,p.Gly860Arg,G860R,COL4A5_G860R_mutant_sae_features.npz,False
+COL4A5,p.Gly457Cys,G457C,COL4A5_G457C_mutant_sae_features.npz,False
+COL4A5,p.Gly710Glu,G710E,COL4A5_G710E_mutant_sae_features.npz,False
+COL4A5,p.Gly558Arg,G558R,COL4A5_G558R_mutant_sae_features.npz,False
+COL4A5,p.Gly224Val,G224V,COL4A5_G224V_mutant_sae_features.npz,False
+COL4A5,p.Gly600Val,G600V,COL4A5_G600V_mutant_sae_features.npz,False
+COL4A5,p.Gly1427Trp,G1427W,COL4A5_G1427W_mutant_sae_features.npz,False
+COL4A5,p.Gly1379Arg,G1379R,COL4A5_G1379R_mutant_sae_features.npz,False
+COL4A5,p.Gly896Ser,G896S,COL4A5_G896S_mutant_sae_features.npz,False
+COL4A5,p.Gly893Val,G893V,COL4A5_G893V_mutant_sae_features.npz,False
+COL4A5,p.Gly1158Glu,G1158E,COL4A5_G1158E_mutant_sae_features.npz,False
+COL4A3,p.Gly487Cys,G487C,COL4A3_G487C_mutant_sae_features.npz,False
+COL4A3,p.Gly262Glu,G262E,COL4A3_G262E_mutant_sae_features.npz,False
+COL4A3,p.Gly619Arg,G619R,COL4A3_G619R_mutant_sae_features.npz,False
+COL4A4,p.Gly367Arg,G367R,COL4A4_G367R_mutant_sae_features.npz,False
