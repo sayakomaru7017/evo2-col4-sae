@@ -1,0 +1,296 @@
+Analysis_ID,orig_str,chgvs,orig_parsed,vv_prot_str,vv_parsed,parse_fail,pos_match,full_match
+④-A771,p.Gly1433Ser,c.4297G>A,"('G', 1433, 'S')",NP_000486.1:p.(G1433S),"('G', 1433, 'S')",False,True,True
+⑨-01,p.Gly230Cys,c.688G>T,"('G', 230, 'C')",NP_000486.1:p.(G230C),"('G', 230, 'C')",False,True,True
+⑨-02,p.Gly230Cys,c.688G>T,"('G', 230, 'C')",NP_000486.1:p.(G230C),"('G', 230, 'C')",False,True,True
+⑨-03,p.Gly509Arg,c.1525G>C,"('G', 509, 'R')",NP_000486.1:p.(G509R),"('G', 509, 'R')",False,True,True
+⑨-04,p.Gly509Arg,c.1525G>C,"('G', 509, 'R')",NP_000486.1:p.(G509R),"('G', 509, 'R')",False,True,True
+⑨-05,p.Gly805Arg,c.2413G>A,"('G', 805, 'R')",NP_000486.1:p.(G805R),"('G', 805, 'R')",False,True,True
+⑨-06,p.Gly805Arg,c.2413G>A,"('G', 805, 'R')",NP_000486.1:p.(G805R),"('G', 805, 'R')",False,True,True
+⑨-07,p.Gly869Arg,c.2605G>A,"('G', 869, 'R')",NP_000486.1:p.(G869R),"('G', 869, 'R')",False,True,True
+⑨-08,p.Gly1000Val,c.2999G>T,"('G', 1000, 'V')",NP_000486.1:p.(G1000V),"('G', 1000, 'V')",False,True,True
+⑨-09,p.Gly1030Ser,c.3088G>A,"('G', 1030, 'S')",NP_000486.1:p.(G1030S),"('G', 1030, 'S')",False,True,True
+⑨-10,p.Gly1030Ser,c.3088G>A,"('G', 1030, 'S')",NP_000486.1:p.(G1030S),"('G', 1030, 'S')",False,True,True
+⑨-11,p.Gly1140Val,c.3419G>T,"('G', 1140, 'V')",NP_000486.1:p.(G1140V),"('G', 1140, 'V')",False,True,True
+⑨-12,p.Gly1140Val,c.3419G>T,"('G', 1140, 'V')",NP_000486.1:p.(G1140V),"('G', 1140, 'V')",False,True,True
+⑨-13,p.Gly1140Val,c.3419G>T,"('G', 1140, 'V')",NP_000486.1:p.(G1140V),"('G', 1140, 'V')",False,True,True
+⑨-14,p.Gly1143Ser,c.3427G>A,"('G', 1143, 'S')",NP_000486.1:p.(G1143S),"('G', 1143, 'S')",False,True,True
+⑨-15,p.Gly1143Ser,c.3427G>A,"('G', 1143, 'S')",NP_000486.1:p.(G1143S),"('G', 1143, 'S')",False,True,True
+⑨-16,p.Gly1143Ser,c.3427G>A,"('G', 1143, 'S')",NP_000486.1:p.(G1143S),"('G', 1143, 'S')",False,True,True
+⑨-17,p.Gly1143Ser,c.3427G>A,"('G', 1143, 'S')",NP_000486.1:p.(G1143S),"('G', 1143, 'S')",False,True,True
+⑨-18,p.Gly1143Ser,c.3427G>A,"('G', 1143, 'S')",NP_000486.1:p.(G1143S),"('G', 1143, 'S')",False,True,True
+⑨-19,p.Gly1143Ser,c.3427G>A,"('G', 1143, 'S')",NP_000486.1:p.(G1143S),"('G', 1143, 'S')",False,True,True
+⑨-20,p.Gly1143Ser,c.3427G>A,"('G', 1143, 'S')",NP_000486.1:p.(G1143S),"('G', 1143, 'S')",False,True,True
+⑨-21,p.Gly1143Ser,c.3427G>A,"('G', 1143, 'S')",NP_000486.1:p.(G1143S),"('G', 1143, 'S')",False,True,True
+⑨-22,p.Gly1143Ser,c.3427G>A,"('G', 1143, 'S')",NP_000486.1:p.(G1143S),"('G', 1143, 'S')",False,True,True
+⑨-23,p.Gly1143Ser,c.3427G>A,"('G', 1143, 'S')",NP_000486.1:p.(G1143S),"('G', 1143, 'S')",False,True,True
+⑨-24,p.Gly1149Val,c.3446G>T,"('G', 1149, 'V')",NP_000486.1:p.(G1149V),"('G', 1149, 'V')",False,True,True
+⑨-25,p.Gly1149Val,c.3446G>T,"('G', 1149, 'V')",NP_000486.1:p.(G1149V),"('G', 1149, 'V')",False,True,True
+⑥-A1,p.Gly1244Asp,c.3731G>A,"('G', 1244, 'D')",NP_000486.1:p.(G1244D),"('G', 1244, 'D')",False,True,True
+⑥-A144,p.Gly1244Asp,c.3731G>A,"('G', 1244, 'D')",NP_000486.1:p.(G1244D),"('G', 1244, 'D')",False,True,True
+⑥-A23,p.Gly1229Ser,c.3685G>A,"('G', 1229, 'S')",NP_000486.1:p.(G1229S),"('G', 1229, 'S')",False,True,True
+⑥-A458,p.Gly1229Ser,c.3685G>A,"('G', 1229, 'S')",NP_000486.1:p.(G1229S),"('G', 1229, 'S')",False,True,True
+⑥-A462,p.Gly1229Ser,c.3685G>A,"('G', 1229, 'S')",NP_000486.1:p.(G1229S),"('G', 1229, 'S')",False,True,True
+⑥-A542,p.Gly1229Ser,c.3685G>A,"('G', 1229, 'S')",NP_000486.1:p.(G1229S),"('G', 1229, 'S')",False,True,True
+⑥-A24,p.Gly624Cys,c.1870G>T,"('G', 624, 'C')",NP_000486.1:p.(G624C),"('G', 624, 'C')",False,True,True
+⑥-A30,p.Gly875Arg,c.2623G>A,"('G', 875, 'R')",NP_000486.1:p.(G875R),"('G', 875, 'R')",False,True,True
+⑥-A39,p.Trp20*,c.60G>A,"('W', 20, '*')",NP_000486.1:p.(W20*),"('W', 20, '*')",False,True,True
+⑥-A66,p.Arg1677Gln,c.5030G>A,"('R', 1677, 'Q')",NP_000486.1:p.(R1677Q),"('R', 1677, 'Q')",False,True,True
+⑥-A775,p.Arg1677Gln,c.5030G>A,"('R', 1677, 'Q')",NP_000486.1:p.(R1677Q),"('R', 1677, 'Q')",False,True,True
+⑥-A69,p.Arg1677Pro,c.5030G>C,"('R', 1677, 'P')",NP_000486.1:p.(R1677P),"('R', 1677, 'P')",False,True,True
+⑥-A72,p.Gly1267Ser,c.3799G>A,"('G', 1267, 'S')",NP_000486.1:p.(G1267S),"('G', 1267, 'S')",False,True,True
+⑥-A75,p.Gly233Asp,c.698G>A,"('G', 233, 'D')",NP_000486.1:p.(G233D),"('G', 233, 'D')",False,True,True
+⑥-A78,p.Gly1098Val,c.3293G>T,"('G', 1098, 'V')",NP_000486.1:p.(G1098V),"('G', 1098, 'V')",False,True,True
+⑥-A90,p.Gly1205Val,c.3614G>T,"('G', 1205, 'V')",NP_000486.1:p.(G1205V),"('G', 1205, 'V')",False,True,True
+⑥-A102,p.Gly558Val,c.1673G>T,"('G', 558, 'V')",NP_000486.1:p.(G558V),"('G', 558, 'V')",False,True,True
+⑥-A108,p.Gly875Glu,c.2624G>A,"('G', 875, 'E')",NP_000486.1:p.(G875E),"('G', 875, 'E')",False,True,True
+⑥-A111,p.Gly1060Glu,c.3179G>A,"('G', 1060, 'E')",NP_000486.1:p.(G1060E),"('G', 1060, 'E')",False,True,True
+⑥-A126,p.Gly48,c.142G>T,,NP_000486.1:p.(G48*),"('G', 48, '*')",True,False,False
+⑥-A135,p.Gly893Asp,c.2678G>A,"('G', 893, 'D')",NP_000486.1:p.(G893D),"('G', 893, 'D')",False,True,True
+⑥-A138,p.Gly1125Arg,c.3373G>A,"('G', 1125, 'R')",NP_000486.1:p.(G1125R),"('G', 1125, 'R')",False,True,True
+⑥-A141,p.Gly463Val,c.1388G>T,"('G', 463, 'V')",NP_000486.1:p.(G463V),"('G', 463, 'V')",False,True,True
+⑥-A153,p.Gly947Asp,c.2840G>A,"('G', 947, 'D')",NP_000486.1:p.(G947D),"('G', 947, 'D')",False,True,True
+⑥-A767,p.Gly947Asp,c.2840G>A,"('G', 947, 'D')",NP_000486.1:p.(G947D),"('G', 947, 'D')",False,True,True
+⑥-A156,p.Gly893Ser,c.2677G>A,"('G', 893, 'S')",NP_000486.1:p.(G893S),"('G', 893, 'S')",False,True,True
+⑥-A161,p.Gly1427Ser,c.4279G>A,"('G', 1427, 'S')",NP_000486.1:p.(G1427S),"('G', 1427, 'S')",False,True,True
+⑥-A424,p.Gly1427Ser,c.4279G>A,"('G', 1427, 'S')",NP_000486.1:p.(G1427S),"('G', 1427, 'S')",False,True,True
+⑥-A425,p.Gly1427Ser,c.4279G>A,"('G', 1427, 'S')",NP_000486.1:p.(G1427S),"('G', 1427, 'S')",False,True,True
+⑥-A472,p.Gly1427Ser,c.4279G>A,"('G', 1427, 'S')",NP_000486.1:p.(G1427S),"('G', 1427, 'S')",False,True,True
+⑥-A164,p.Thr1480Arg,c.4439C>G,"('T', 1480, 'R')",NP_000486.1:p.(T1480R),"('T', 1480, 'R')",False,True,True
+⑥-A411,p.Thr1480Arg,c.4439C>G,"('T', 1480, 'R')",NP_000486.1:p.(T1480R),"('T', 1480, 'R')",False,True,True
+⑥-A637,p.Thr1480Arg,c.4439C>G,"('T', 1480, 'R')",NP_000486.1:p.(T1480R),"('T', 1480, 'R')",False,True,True
+⑥-A647,p.Thr1480Arg,c.4439C>G,"('T', 1480, 'R')",NP_000486.1:p.(T1480R),"('T', 1480, 'R')",False,True,True
+⑥-A165,p.Gly1107Val,c.3320G>T,"('G', 1107, 'V')",NP_000486.1:p.(G1107V),"('G', 1107, 'V')",False,True,True
+⑥-A170,p.Gly1385Glu,c.4154G>A,"('G', 1385, 'E')",NP_000486.1:p.(G1385E),"('G', 1385, 'E')",False,True,True
+⑥-A171,p.Gly144Asp,c.431G>A,"('G', 144, 'D')",NP_000486.1:p.(G144D),"('G', 144, 'D')",False,True,True
+⑥-A172,p.Gln223Argfs*31,c.668del,,NP_000486.1:p.(Q223Rfs*31),,True,False,False
+⑥-A186,p.Gly1170Ser,c.3508G>A,"('G', 1170, 'S')",NP_000486.1:p.(G1170S),"('G', 1170, 'S')",False,True,True
+⑥-A357,p.Gly1170Ser,c.3508G>A,"('G', 1170, 'S')",NP_000486.1:p.(G1170S),"('G', 1170, 'S')",False,True,True
+⑥-A646,p.Gly1170Ser,c.3508G>A,"('G', 1170, 'S')",NP_000486.1:p.(G1170S),"('G', 1170, 'S')",False,True,True
+⑥-A688,p.Gly1170Ser,c.3508G>A,"('G', 1170, 'S')",NP_000486.1:p.(G1170S),"('G', 1170, 'S')",False,True,True
+⑥-A189,p.Glu1631*,c.4891G>T,"('E', 1631, '*')",NP_000486.1:p.(E1631*),"('E', 1631, '*')",False,True,True
+⑥-A198,p.Gly896Ala,c.2687G>C,"('G', 896, 'A')",NP_000486.1:p.(G896A),"('G', 896, 'A')",False,True,True
+⑥-A237,p.Gly1433Valfs*114,c.4298del,,NP_000486.1:p.(G1433Vfs*115),,True,False,False
+⑥-A243,p.Gly1054Ser,c.3160G>A,"('G', 1054, 'S')",NP_000486.1:p.(G1054S),"('G', 1054, 'S')",False,True,True
+⑥-A337,p.Gly1054Ser,c.3160G>A,"('G', 1054, 'S')",NP_000486.1:p.(G1054S),"('G', 1054, 'S')",False,True,True
+⑥-A262,p.Cys1638Phe,c.4913G>T,"('C', 1638, 'F')",NP_000486.1:p.(C1638F),"('C', 1638, 'F')",False,True,True
+⑥-A277,p.Gly860Ser,c.2578G>A,"('G', 860, 'S')",NP_000486.1:p.(G860S),"('G', 860, 'S')",False,True,True
+⑥-A283,p.Gly1107Arg,c.3319G>A,"('G', 1107, 'R')",NP_000486.1:p.(G1107R),"('G', 1107, 'R')",False,True,True
+⑥-A436,p.Gly1107Arg,c.3319G>A,"('G', 1107, 'R')",NP_000486.1:p.(G1107R),"('G', 1107, 'R')",False,True,True
+⑥-A286,p.Gly609Val,c.1826G>T,"('G', 609, 'V')",NP_000486.1:p.(G609V),"('G', 609, 'V')",False,True,True
+⑥-A301,p.Gly1333Ser,c.3997G>A,"('G', 1333, 'S')",NP_000486.1:p.(G1333S),"('G', 1333, 'S')",False,True,True
+⑥-A322,p.Gly763Arg,c.2287G>A,"('G', 763, 'R')",NP_000486.1:p.(G763R),"('G', 763, 'R')",False,True,True
+⑥-A679,p.Gly763Arg,c.2287G>A,"('G', 763, 'R')",NP_000486.1:p.(G763R),"('G', 763, 'R')",False,True,True
+⑥-A328,p.Gly325Arg,c.973G>A,"('G', 325, 'R')",NP_000486.1:p.(G325R),"('G', 325, 'R')",False,True,True
+⑥-A501,p.Gly325Arg,c.973G>A,"('G', 325, 'R')",NP_000486.1:p.(G325R),"('G', 325, 'R')",False,True,True
+⑥-A520,p.Gly325Arg,c.973G>A,"('G', 325, 'R')",NP_000486.1:p.(G325R),"('G', 325, 'R')",False,True,True
+⑥-A692,p.Gly325Arg,c.973G>A,"('G', 325, 'R')",NP_000486.1:p.(G325R),"('G', 325, 'R')",False,True,True
+⑥-A330,p.Gly1193Aspfs*106,c.3578del,,NP_000486.1:p.(G1193Dfs*106),,True,False,False
+⑥-A339,p.Gly878Glu,c.2633G>A,"('G', 878, 'E')",NP_000486.1:p.(G878E),"('G', 878, 'E')",False,True,True
+⑥-A341,p.Gly1504Arg,c.4510G>A,"('G', 1504, 'R')",NP_000486.1:p.(G1504R),"('G', 1504, 'R')",False,True,True
+⑥-A342,p.Gly766Asp,c.2297G>A,"('G', 766, 'D')",NP_000486.1:p.(G766D),"('G', 766, 'D')",False,True,True
+⑥-A344,p.Gly863Ser,c.2587G>A,"('G', 863, 'S')",NP_000486.1:p.(G863S),"('G', 863, 'S')",False,True,True
+⑥-A346,p.Gly1208Glu,c.3623G>A,"('G', 1208, 'E')",NP_000486.1:p.(G1208E),"('G', 1208, 'E')",False,True,True
+⑥-A347,p.Gly1445Glu,c.4334G>A,"('G', 1445, 'E')",NP_000486.1:p.(G1445E),"('G', 1445, 'E')",False,True,True
+⑥-A348,p.Gly230Cys,c.688G>T,"('G', 230, 'C')",NP_000486.1:p.(G230C),"('G', 230, 'C')",False,True,True
+⑥-A352,p.Gly926Cys,c.2776G>T,"('G', 926, 'C')",NP_000486.1:p.(G926C),"('G', 926, 'C')",False,True,True
+⑥-A353,p.Gly1018Valfs*3,c.3053del,,NP_000486.1:p.(G1018Vfs*3),,True,False,False
+⑥-A355,p.Pro907Ser,c.2719C>T,"('P', 907, 'S')",NP_000486.1:p.(P907S),"('P', 907, 'S')",False,True,True
+⑥-A359,p.Pro492Tyrfs*53,c.1474_1475delinsTAT,,NP_000486.1:p.(P492Yfs*53),,True,False,False
+⑥-A360,p.Gly822Val,c.2465G>T,"('G', 822, 'V')",NP_000486.1:p.(G822V),"('G', 822, 'V')",False,True,True
+⑥-A363,p.Gly129Val,c.386G>T,"('G', 129, 'V')",NP_000486.1:p.(G129V),"('G', 129, 'V')",False,True,True
+⑥-A365,p.Asn1643Ser,c.4928A>G,"('N', 1643, 'S')",NP_000486.1:p.(N1643S),"('N', 1643, 'S')",False,True,True
+⑥-A367,p.Gly1223Asp,c.3668G>A,"('G', 1223, 'D')",NP_000486.1:p.(G1223D),"('G', 1223, 'D')",False,True,True
+⑥-A368,p.Arg266*,c.796C>T,"('R', 266, '*')",NP_000486.1:p.(R266*),"('R', 266, '*')",False,True,True
+⑥-A661,p.Arg266*,c.796C>T,"('R', 266, '*')",NP_000486.1:p.(R266*),"('R', 266, '*')",False,True,True
+⑥-A373,p.Trp1538Cys,c.4614G>T,"('W', 1538, 'C')",NP_000486.1:p.(W1538C),"('W', 1538, 'C')",False,True,True
+⑥-A377,p.Gly1000Val,c.2999G>T,"('G', 1000, 'V')",NP_000486.1:p.(G1000V),"('G', 1000, 'V')",False,True,True
+⑥-A379,p.Gly1354Val,c.4061G>T,"('G', 1354, 'V')",NP_000486.1:p.(G1354V),"('G', 1354, 'V')",False,True,True
+⑥-A381,p.Gly763Glu,c.2288G>A,"('G', 763, 'E')",NP_000486.1:p.(G763E),"('G', 763, 'E')",False,True,True
+⑥-A703,p.Gly763Glu,c.2288G>A,"('G', 763, 'E')",NP_000486.1:p.(G763E),"('G', 763, 'E')",False,True,True
+⑥-A385,p.Gly230Val,c.689G>T,"('G', 230, 'V')",NP_000486.1:p.(G230V),"('G', 230, 'V')",False,True,True
+⑥-A412,p.Gly472Glu,c.1415G>A,"('G', 472, 'E')",NP_000486.1:p.(G472E),"('G', 472, 'E')",False,True,True
+⑥-A413,p.Gly1104Arg,c.3310G>C,"('G', 1104, 'R')",NP_000486.1:p.(G1104R),"('G', 1104, 'R')",False,True,True
+⑥-A414,p.Gly515Arg,c.1543G>A,"('G', 515, 'R')",NP_000486.1:p.(G515R),"('G', 515, 'R')",False,True,True
+⑥-A422,p.Tyr1535*,c.4605T>A,"('Y', 1535, '*')",NP_000486.1:p.(Y1535*),"('Y', 1535, '*')",False,True,True
+⑥-A441,p.Gly702Asp,c.2105G>A,"('G', 702, 'D')",NP_000486.1:p.(G702D),"('G', 702, 'D')",False,True,True
+⑥-A442,p.Ser1659Asn,c.4976G>A,"('S', 1659, 'N')",NP_000486.1:p.(S1659N),"('S', 1659, 'N')",False,True,True
+⑥-A446,p.Gly1030Ser,c.3088G>A,"('G', 1030, 'S')",NP_000486.1:p.(G1030S),"('G', 1030, 'S')",False,True,True
+⑥-A453,p.Gly1030Ser,c.3088G>A,"('G', 1030, 'S')",NP_000486.1:p.(G1030S),"('G', 1030, 'S')",False,True,True
+⑥-A451,p.Gly1134Valfs*18,c.3399del,,NP_000486.1:p.(G1134Vfs*18),,True,False,False
+⑥-A454,p.Gly1170Val,c.3509G>T,"('G', 1170, 'V')",NP_000486.1:p.(G1170V),"('G', 1170, 'V')",False,True,True
+⑥-A455,p.Pro809Trpfs*9,c.2425_2428del,,NP_000486.1:p.(P809Wfs*9),,True,False,False
+⑥-A459,p.Ser1365*,c.4094del,"('S', 1365, '*')",NP_000486.1:p.(S1365*),"('S', 1365, '*')",False,True,True
+⑥-A461,p.Asp327Valfs*18,c.980_983del,,NP_000486.1:p.(D327Vfs*18),,True,False,False
+⑥-A463,p.Arg373*,c.1117C>T,"('R', 373, '*')",NP_000486.1:p.(R373*),"('R', 373, '*')",False,True,True
+⑥-A465,p.Gly675Asp,c.2024G>A,"('G', 675, 'D')",NP_000486.1:p.(G675D),"('G', 675, 'D')",False,True,True
+⑥-A475,p.Gly233Ser,c.697G>A,"('G', 233, 'S')",NP_000486.1:p.(G233S),"('G', 233, 'S')",False,True,True
+⑥-A540,p.Gly233Ser,c.697G>A,"('G', 233, 'S')",NP_000486.1:p.(G233S),"('G', 233, 'S')",False,True,True
+⑥-A479,p.Gly1229Cys,c.3685G>T,"('G', 1229, 'C')",NP_000486.1:p.(G1229C),"('G', 1229, 'C')",False,True,True
+⑥-A499,p.Gly371del,c.1111_1113del,,NP_000486.1:p.(G371del),,True,False,False
+⑥-A597,p.Gly371del,c.1111_1113del,,NP_000486.1:p.(G371del),,True,False,False
+⑥-A502,p.Gly558Ser,c.1672G>A,"('G', 558, 'S')",NP_000486.1:p.(G558S),"('G', 558, 'S')",False,True,True
+⑥-A506,p.Gly887Ala,c.2660G>C,"('G', 887, 'A')",NP_000486.1:p.(G887A),"('G', 887, 'A')",False,True,True
+⑥-A507,p.Pro315_Tyr320dup,c.943_960dup,,NP_000486.1:p.(D317_G322dup),,True,False,False
+⑥-A511,p.Gly834Val,c.2501G>T,"('G', 834, 'V')",NP_000486.1:p.(G834V),"('G', 834, 'V')",False,True,True
+⑥-A513,p.Gly466Arg,c.1396G>A,"('G', 466, 'R')",NP_000486.1:p.(G466R),"('G', 466, 'R')",False,True,True
+⑥-A515,p.Gly814Glu,c.2441G>A,"('G', 814, 'E')",NP_000486.1:p.(G814E),"('G', 814, 'E')",False,True,True
+⑥-A529,p.Arg777Ser,c.2329C>A,"('R', 777, 'S')",NP_000486.1:p.(R777S),"('R', 777, 'S')",False,True,True
+⑥-A765,p.Arg777Ser,c.2329C>A,"('R', 777, 'S')",NP_000486.1:p.(R777S),"('R', 777, 'S')",False,True,True
+⑥-A538,p.Gly1167Ser,c.3499G>A,"('G', 1167, 'S')",NP_000486.1:p.(G1167S),"('G', 1167, 'S')",False,True,True
+⑥-A539,p.Gly1167Ser,c.3499G>A,"('G', 1167, 'S')",NP_000486.1:p.(G1167S),"('G', 1167, 'S')",False,True,True
+⑥-A544,p.Gly1012Asp,c.3035G>A,"('G', 1012, 'D')",NP_000486.1:p.(G1012D),"('G', 1012, 'D')",False,True,True
+⑥-A548,p.Val6Glnfs*33,c.15_16del,,NP_000486.1:p.(V6Qfs*33),,True,False,False
+⑥-A549,p.Gly1448Arg,c.4342G>C,"('G', 1448, 'R')",NP_000486.1:p.(G1448R),"('G', 1448, 'R')",False,True,True
+⑥-A555,p.Gly374Val,c.1121G>T,"('G', 374, 'V')",NP_000486.1:p.(G374V),"('G', 374, 'V')",False,True,True
+⑥-A566,p.Gly763_Gly769del,c.2288_2308del,,NP_000486.1:p.(G763_G769del),,True,False,False
+⑥-A576,p.Glu46Lysfs*109,c.136del,,NP_000486.1:p.(E46Kfs*109),,True,False,False
+⑥-A577,p.Gly1116Arg,c.3346G>A,"('G', 1116, 'R')",NP_000486.1:p.(G1116R),"('G', 1116, 'R')",False,True,True
+⑥-A579,p.Gly1066Ser,c.3196G>A,"('G', 1066, 'S')",NP_000486.1:p.(G1066S),"('G', 1066, 'S')",False,True,True
+⑥-A586,p.Gly310Arg,c.928G>A,"('G', 310, 'R')",NP_000486.1:p.(G310R),"('G', 310, 'R')",False,True,True
+⑥-A589,p.Gly1229Asp,c.3686G>A,"('G', 1229, 'D')",NP_000486.1:p.(G1229D),"('G', 1229, 'D')",False,True,True
+⑥-A600,p.Pro88Ser,c.262C>T,"('P', 88, 'S')",NP_000486.1:p.(P88S),"('P', 88, 'S')",False,True,True
+⑥-A602,p.Cys1678Arg,c.5032T>C,"('C', 1678, 'R')",NP_000486.1:p.(C1678R),"('C', 1678, 'R')",False,True,True
+⑥-A607,p.Gly675Ser,c.2023G>A,"('G', 675, 'S')",NP_000486.1:p.(G675S),"('G', 675, 'S')",False,True,True
+⑥-A610,p.Gly887Cys,c.2659G>T,"('G', 887, 'C')",NP_000486.1:p.(G887C),"('G', 887, 'C')",False,True,True
+⑥-A611,p.Gln468Leufs*8,c.1402_1403insTTTAC,,NP_000486.1:p.(Q468Lfs*8),,True,False,False
+⑥-A615,p.Gly869Arg,c.2605G>A,"('G', 869, 'R')",NP_000486.1:p.(G869R),"('G', 869, 'R')",False,True,True
+⑥-A821,p.Gly869Arg,c.2605G>A,"('G', 869, 'R')",NP_000486.1:p.(G869R),"('G', 869, 'R')",False,True,True
+⑥-A618,p.Gly1360Val,c.4079G>T,"('G', 1360, 'V')",NP_000486.1:p.(G1360V),"('G', 1360, 'V')",False,True,True
+⑥-A623,p.Gly117Serfs*40,c.348_349insTCCGG,,NP_000486.1:p.(G117Sfs*40),,True,False,False
+⑥-A625,p.Gly475Valfs*82,c.1423del,,NP_000486.1:p.?,,True,False,False
+⑥-A638,p.Gly1119Argfs*18,c.3353dupC,,NP_000486.1:p.(G1119Rfs*18),,True,False,False
+⑥-A645,p.Gly328Asp,c.983G>A,"('G', 328, 'D')",NP_000486.1:p.(G328D),"('G', 328, 'D')",False,True,True
+⑥-A650,p.Gly460Arg,c.1378G>A,"('G', 460, 'R')",NP_000486.1:p.(G460R),"('G', 460, 'R')",False,True,True
+⑥-A653,p.Pro118Tyrfs*38,c.350_351insGT,,NP_000486.1:p.(P118Yfs*38),,True,False,False
+⑥-A654,p.Gly426Arg,c.1276G>A,"('G', 426, 'R')",NP_000486.1:p.(G426R),"('G', 426, 'R')",False,True,True
+⑥-A666,p.Gly1451Asp,c.4352G>A,"('G', 1451, 'D')",NP_000486.1:p.(G1451D),"('G', 1451, 'D')",False,True,True
+⑥-A667,p.Gly822Glu,c.2465G>A,"('G', 822, 'E')",NP_000486.1:p.(G822E),"('G', 822, 'E')",False,True,True
+⑥-A673,p.Gln1431*,c.4291C>T,"('Q', 1431, '*')",NP_000486.1:p.(Q1431*),"('Q', 1431, '*')",False,True,True
+⑥-A676,p.Gln519*,c.1555C>T,"('Q', 519, '*')",NP_000486.1:p.(Q519*),"('Q', 519, '*')",False,True,True
+⑥-A677,p.Gln1555Argfs*19,c.4663del,,NP_000486.1:p.(Q1555Rfs*19),,True,False,False
+⑥-A683,p.Gly699Glu,c.2096G>A,"('G', 699, 'E')",NP_000486.1:p.(G699E),"('G', 699, 'E')",False,True,True
+⑥-A687,p.Gly397Arg,c.1189G>C,"('G', 397, 'R')",NP_000486.1:p.(G397R),"('G', 397, 'R')",False,True,True
+⑥-A691,p.Cys32Ilefs*4,c.94_104del,,NP_000486.1:p.(C32Ifs*4),,True,False,False
+⑥-A693,p.Cys1564Tyr,c.4691G>A,"('C', 1564, 'Y')",NP_000486.1:p.(C1564Y),"('C', 1564, 'Y')",False,True,True
+⑥-A697,p.Gly1143Ser,c.3427G>A,"('G', 1143, 'S')",NP_000486.1:p.(G1143S),"('G', 1143, 'S')",False,True,True
+⑥-A712,p.Gly743Arg,c.2227G>C,"('G', 743, 'R')",NP_000486.1:p.(G743R),"('G', 743, 'R')",False,True,True
+⑥-A721,p.Gly961Alafs*35,c.2882del,,NP_000486.1:p.(G961Afs*35),,True,False,False
+⑥-A726,p.Pro1426Glnfs*122,c.4277del,,NP_000486.1:p.(P1426Qfs*122),,True,False,False
+⑥-A730,p.Gly494Cys,c.1480G>T,"('G', 494, 'C')",NP_000486.1:p.(G494C),"('G', 494, 'C')",False,True,True
+⑥-A737,p.Gly1155Asnfs*140,c.3463_3475del,,NP_000486.1:p.(G1155Nfs*140),,True,False,False
+⑥-A750,p.Gly400Arg,c.1198G>A,"('G', 400, 'R')",NP_000486.1:p.(G400R),"('G', 400, 'R')",False,True,True
+⑥-A768,p.Gly713Ser,c.2137G>A,"('G', 713, 'S')",NP_000486.1:p.(G713S),"('G', 713, 'S')",False,True,True
+⑥-A770,p.Ser1655Glnfs*12,c.4962del,,NP_000486.1:p.(S1655Qfs*12),,True,False,False
+⑥-A774,p.Met1Leu,c.1A>C,"('M', 1, 'L')",NP_000486.1:p.(M1?),,True,False,False
+⑥-A806,p.Gly397Asp,c.1190G>A,"('G', 397, 'D')",NP_000486.1:p.(G397D),"('G', 397, 'D')",False,True,True
+⑥-A816,p.Gly1196Glu,c.3587G>A,"('G', 1196, 'E')",NP_000486.1:p.(G1196E),"('G', 1196, 'E')",False,True,True
+⑥-A830,p.Gly1176Arg,c.3526G>C,"('G', 1176, 'R')",NP_000486.1:p.(G1176R),"('G', 1176, 'R')",False,True,True
+⑦-P1,p.Gly51Arg,c.151G>A,"('G', 51, 'R')",NP_000486.1:p.(G51R),"('G', 51, 'R')",False,True,True
+⑦-P1-1,p.Gly51Arg,c.151G>A,"('G', 51, 'R')",NP_000486.1:p.(G51R),"('G', 51, 'R')",False,True,True
+⑦-P2,p.Gly135Asp,c.404G>A,"('G', 135, 'D')",NP_000486.1:p.(G135D),"('G', 135, 'D')",False,True,True
+⑦-P3,p.Gly144Asp,c.431G>A,"('G', 144, 'D')",NP_000486.1:p.(G144D),"('G', 144, 'D')",False,True,True
+⑦-P4,p.Gly233Val,c.698G>T,"('G', 233, 'V')",NP_000486.1:p.(G233V),"('G', 233, 'V')",False,True,True
+⑦-P7,p.Gly319Arg,c.955G>C,"('G', 319, 'R')",NP_000486.1:p.(G319R),"('G', 319, 'R')",False,True,True
+⑦-P7-1,p.Gly319Arg,c.955G>C,"('G', 319, 'R')",NP_000486.1:p.(G319R),"('G', 319, 'R')",False,True,True
+⑦-P10,p.Gly380Ser,c.1138G>A,"('G', 380, 'S')",NP_000486.1:p.(G380S),"('G', 380, 'S')",False,True,True
+⑦-P11,p.Gly400Val,c.1199G>T,"('G', 400, 'V')",NP_000486.1:p.(G400V),"('G', 400, 'V')",False,True,True
+⑦-P15,p.Gly457Val,c.1370G>T,"('G', 457, 'V')",NP_000486.1:p.(G457V),"('G', 457, 'V')",False,True,True
+⑦-P17,p.Gly515Trp,c.1543G>T,"('G', 515, 'W')",NP_000486.1:p.(G515W),"('G', 515, 'W')",False,True,True
+⑦-P19,p.Gly539Asp,c.1616G>A,"('G', 539, 'D')",NP_000486.1:p.(G539D),"('G', 539, 'D')",False,True,True
+⑦-P19-1,p.Gly539Asp,c.1616G>A,"('G', 539, 'D')",NP_000486.1:p.(G539D),"('G', 539, 'D')",False,True,True
+⑦-P19-2,p.Gly539Asp,c.1616G>A,"('G', 539, 'D')",NP_000486.1:p.(G539D),"('G', 539, 'D')",False,True,True
+⑦-P20,p.Gly635Ser,c.1903G>A,"('G', 635, 'S')",NP_000486.1:p.(G635S),"('G', 635, 'S')",False,True,True
+⑦-P24-1,p.Gly778Arg,c.2332G>C,"('G', 778, 'R')",NP_000486.1:p.(G778R),"('G', 778, 'R')",False,True,True
+⑦-P26,p.Gly793Arg,c.2377G>A,"('G', 793, 'R')",NP_000486.1:p.(G793R),"('G', 793, 'R')",False,True,True
+⑦-P27,p.Gly814Arg,c.2440G>A,"('G', 814, 'R')",NP_000486.1:p.(G814R),"('G', 814, 'R')",False,True,True
+⑦-P27-1,p.Gly814Arg,c.2440G>A,"('G', 814, 'R')",NP_000486.1:p.(G814R),"('G', 814, 'R')",False,True,True
+⑦-P28,p.Gly834Asp,c.2501G>A,"('G', 834, 'D')",NP_000486.1:p.(G834D),"('G', 834, 'D')",False,True,True
+⑦-P29,p.Gly837Val,c.2510G>T,"('G', 837, 'V')",NP_000486.1:p.(G837V),"('G', 837, 'V')",False,True,True
+⑦-P30,p.Gly869Arg,c.2605G>A,"('G', 869, 'R')",NP_000486.1:p.(G869R),"('G', 869, 'R')",False,True,True
+⑦-P32,p.Gly902Glu,c.2705G>A,"('G', 902, 'E')",NP_000486.1:p.(G902E),"('G', 902, 'E')",False,True,True
+⑦-P34,p.Gly911Glu,c.2732G>A,"('G', 911, 'E')",NP_000486.1:p.(G911E),"('G', 911, 'E')",False,True,True
+⑦-P34-1,p.Gly911Glu,c.2732G>A,"('G', 911, 'E')",NP_000486.1:p.(G911E),"('G', 911, 'E')",False,True,True
+⑦-P35,p.Gly923Ser,c.2767G>A,"('G', 923, 'S')",NP_000486.1:p.(G923S),"('G', 923, 'S')",False,True,True
+⑦-P36,p.Gly1012Asp,c.3035G>A,"('G', 1012, 'D')",NP_000486.1:p.(G1012D),"('G', 1012, 'D')",False,True,True
+⑦-P36-1,p.Gly1012Asp,c.3035G>A,"('G', 1012, 'D')",NP_000486.1:p.(G1012D),"('G', 1012, 'D')",False,True,True
+⑦-P38,p.Gly1054Asp,c.3161G>A,"('G', 1054, 'D')",NP_000486.1:p.(G1054D),"('G', 1054, 'D')",False,True,True
+⑦-P39,p.Gly1069Val,c.3206G>T,"('G', 1069, 'V')",NP_000486.1:p.(G1069V),"('G', 1069, 'V')",False,True,True
+⑦-P40,p.Gly1098Val,c.3293G>T,"('G', 1098, 'V')",NP_000486.1:p.(G1098V),"('G', 1098, 'V')",False,True,True
+⑦-P41,p.Gly1104Arg,c.3310G>C,"('G', 1104, 'R')",NP_000486.1:p.(G1104R),"('G', 1104, 'R')",False,True,True
+⑦-P44,p.Gly1170Ser,c.3508G>A,"('G', 1170, 'S')",NP_000486.1:p.(G1170S),"('G', 1170, 'S')",False,True,True
+⑦-P44-1,p.Gly1170Ser,c.3508G>A,"('G', 1170, 'S')",NP_000486.1:p.(G1170S),"('G', 1170, 'S')",False,True,True
+⑦-P46,p.Gly1229Asp,c.3686G>A,"('G', 1229, 'D')",NP_000486.1:p.(G1229D),"('G', 1229, 'D')",False,True,True
+⑦-P46-1,p.Gly1229Asp,c.3686G>A,"('G', 1229, 'D')",NP_000486.1:p.(G1229D),"('G', 1229, 'D')",False,True,True
+⑦-P46-2,p.Gly1229Asp,c.3686G>A,"('G', 1229, 'D')",NP_000486.1:p.(G1229D),"('G', 1229, 'D')",False,True,True
+⑦-P46-3,p.Gly1229Asp,c.3686G>A,"('G', 1229, 'D')",NP_000486.1:p.(G1229D),"('G', 1229, 'D')",False,True,True
+⑦-P46-4,p.Gly1229Asp,c.3686G>A,"('G', 1229, 'D')",NP_000486.1:p.(G1229D),"('G', 1229, 'D')",False,True,True
+⑦-P47,p.Gly1267Asp,c.3800G>A,"('G', 1267, 'D')",NP_000486.1:p.(G1267D),"('G', 1267, 'D')",False,True,True
+⑦-P48,p.Gly1270Arg,c.3808G>C,"('G', 1270, 'R')",NP_000486.1:p.(G1270R),"('G', 1270, 'R')",False,True,True
+⑦-P50,p.Arg777Pro,c.2330G>C,"('R', 777, 'P')",NP_000486.1:p.(R777P),"('R', 777, 'P')",False,True,True
+⑦-P51,p.Met901Val,c.2701A>G,"('M', 901, 'V')",NP_000486.1:p.(M901V),"('M', 901, 'V')",False,True,True
+⑦-P52,p.Pro980Ser,c.2938C>T,"('P', 980, 'S')",NP_000486.1:p.(P980S),"('P', 980, 'S')",False,True,True
+⑦-P53,p.Arg1511His,c.4532G>A,"('R', 1511, 'H')",NP_000486.1:p.(R1511H),"('R', 1511, 'H')",False,True,True
+⑦-P53-1,p.Arg1511His,c.4532G>A,"('R', 1511, 'H')",NP_000486.1:p.(R1511H),"('R', 1511, 'H')",False,True,True
+⑦-P56,p.Arg1677Leu,c.5030G>T,"('R', 1677, 'L')",NP_000486.1:p.(R1677L),"('R', 1677, 'L')",False,True,True
+⑦-P56-1,p.Arg1677Leu,c.5030G>T,"('R', 1677, 'L')",NP_000486.1:p.(R1677L),"('R', 1677, 'L')",False,True,True
+⑦-P56-2,p.Arg1677Leu,c.5030G>T,"('R', 1677, 'L')",NP_000486.1:p.(R1677L),"('R', 1677, 'L')",False,True,True
+⑦-P56-3,p.Arg1677Leu,c.5030G>T,"('R', 1677, 'L')",NP_000486.1:p.(R1677L),"('R', 1677, 'L')",False,True,True
+⑦-P56-4,p.Arg1677Leu,c.5030G>T,"('R', 1677, 'L')",NP_000486.1:p.(R1677L),"('R', 1677, 'L')",False,True,True
+⑦-P57,p.Pro458_Gly460del,c.1365_1373del,,NP_000486.1:p.(P458_G460del),,True,False,False
+⑦-P83,p.Gln182Ter,c.544C>T,"('Q', 182, '*')",NP_000486.1:p.(Q182*),"('Q', 182, '*')",False,True,True
+⑦-P85,p.Gln235Ter,c.703C>T,"('Q', 235, '*')",NP_000486.1:p.(Q235*),"('Q', 235, '*')",False,True,True
+⑦-P87,p.Tyr320Ter,c.960C>G,"('Y', 320, '*')",NP_000486.1:p.(Y320*),"('Y', 320, '*')",False,True,True
+⑦-P93-1,p.Gln1302Ter,c.3904C>T,"('Q', 1302, '*')",NP_000486.1:p.(Q1302*),"('Q', 1302, '*')",False,True,True
+⑦-P93-2,p.Gln1302Ter,c.3904C>T,"('Q', 1302, '*')",NP_000486.1:p.(Q1302*),"('Q', 1302, '*')",False,True,True
+⑦-P95,p.Gln1367Ter,c.4099C>T,"('Q', 1367, '*')",NP_000486.1:p.(Q1367*),"('Q', 1367, '*')",False,True,True
+⑦-P95-1,p.Gln1367Ter,c.4099C>T,"('Q', 1367, '*')",NP_000486.1:p.(Q1367*),"('Q', 1367, '*')",False,True,True
+⑦-P96,p.Arg1563Ter,c.4687C>T,"('R', 1563, '*')",NP_000486.1:p.(R1563*),"('R', 1563, '*')",False,True,True
+⑦-P97,p.Arg1674Ter,c.5020C>T,"('R', 1674, '*')",NP_000486.1:p.(R1674*),"('R', 1674, '*')",False,True,True
+⑦-P98,p.Arg1677Ter,c.5029C>T,"('R', 1677, '*')",NP_000486.1:p.(R1677*),"('R', 1677, '*')",False,True,True
+⑦-P101,p.Pro59GlnfsTer96,c.176del,,NP_000486.1:p.(P59Qfs*96),,True,False,False
+⑦-P102,p.Gly120TrpfsTer38,c.358_367delinsTGGAACCTGGT,,NP_000486.1:p.(G120Wfs*38),,True,False,False
+⑦-P103,p.Gly183AlafsTer20,c.546del,,NP_000486.1:p.(G183Afs*20),,True,False,False
+⑦-P105,p.Tyr320ThrfsTer26,c.958del,,NP_000486.1:p.(Y320Tfs*26),,True,False,False
+⑦-P106,p.Pro338HisfsTer8,c.1013del,,NP_000486.1:p.(P338Hfs*8),,True,False,False
+⑦-P107,p.Gly656ValfsTer4,c.1967del,,NP_000486.1:p.(G656Vfs*4),,True,False,False
+⑦-P107-1,p.Gly656ValfsTer4,c.1967del,,NP_000486.1:p.(G656Vfs*4),,True,False,False
+⑦-P109,p.Gly869ArgfsTer29,c.2600dup,,NP_000486.1:p.(G869Rfs*29),,True,False,False
+⑦-P110,p.Gly926AlafsTer15,c.2777_2781del,,NP_000486.1:p.(G926Afs*15),,True,False,False
+⑦-P110-1,p.Gly926AlafsTer15,c.2777_2781del,,NP_000486.1:p.(G926Afs*15),,True,False,False
+⑦-P111,p.Pro972GlnfsTer24,c.2915del,,NP_000486.1:p.(P972Qfs*24),,True,False,False
+⑦-P113,p.Glu1224AspfsTer75,c.3672del,,NP_000486.1:p.(E1224Dfs*75),,True,False,False
+⑦-P114,p.Pro1305GlnfsTer15,c.3914del,,NP_000486.1:p.(P1305Qfs*15),,True,False,False
+⑦-P114-1,p.Pro1305GlnfsTer15,c.3914del,,NP_000486.1:p.(P1305Qfs*15),,True,False,False
+⑦-P115,p.Leu1292ProfsTer7,c.3875_3876delinsC,,NP_000486.1:p.(L1292Pfs*7),,True,False,False
+⑦-P116,p.Glu1349AsnfsTer22,c.4045del,,NP_000486.1:p.(E1349Nfs*22),,True,False,False
+⑦-P116-1,p.Glu1349AsnfsTer22,c.4045del,,NP_000486.1:p.(E1349Nfs*22),,True,False,False
+⑦-P117,p.Gly1363ValfsTer8,c.4088del,,NP_000486.1:p.(G1363Vfs*8),,True,False,False
+⑦-P118,p.Arg1497LysfsTer51,c.4490del,,NP_000486.1:p.(R1497Kfs*51),,True,False,False
+⑦-P119,p.His1577GlnfsTer62,c.4731_4732delCA,,NP_000486.1:p.(H1577Qfs*62),,True,False,False
+⑧-DE-014,Gly129>Val,c.386G>T,"('G', 129, 'V')",NP_000486.1:p.(G129V),"('G', 129, 'V')",False,True,True
+⑧-DE-044,Gly204>Asp,c.611G>A,"('G', 204, 'D')",NP_000486.1:p.(G204D),"('G', 204, 'D')",False,True,True
+⑧-DE-005,Gly292>Val,c.875G>T,"('G', 292, 'V')",NP_000486.1:p.(G292V),"('G', 292, 'V')",False,True,True
+⑧-DE-034,Gly307>Asp,c.920G>A,"('G', 307, 'D')",NP_000486.1:p.(G307D),"('G', 307, 'D')",False,True,True
+⑧-DE-232,Arg1563>Gln,c.4688G>A,"('R', 1563, 'Q')",NP_000486.1:p.(R1563Q),"('R', 1563, 'Q')",False,True,True
+⑧-DE-125,Tyr1597>Cys,c.4790A>G,"('Y', 1597, 'C')",NP_000486.1:p.(Y1597C),"('Y', 1597, 'C')",False,True,True
+⑧-DE-237,Cys1681>Tyr,c.5042G>A,"('C', 1681, 'Y')",NP_000486.1:p.(C1681Y),"('C', 1681, 'Y')",False,True,True
+⑧-DE-311,Cys1678>Arg,c.5032T>C,"('C', 1678, 'R')",NP_000486.1:p.(C1678R),"('C', 1678, 'R')",False,True,True
+⑧-DE-216,Arg1674>Stop,c.5020C>T,,NP_000486.1:p.(R1674*),"('R', 1674, '*')",True,False,False
+⑧-DE-007,AgGGT>ggGGt,c.892-2A>G,,NP_000486.1:p.?,,True,False,False
+⑧-DE-006,CTTgtaagt>CTT...gt,c.1032+1_1032+4delGTAA,,NP_000486.1:p.?,,True,False,False
+⑧-DE-030,TAGgt>TAGct,c.3454+1G>C,,NP_000486.1:p.?,,True,False,False
+⑧-DE-116,CTGgt>CTGga,c.3694+2T>A,,,,True,False,False
+⑧-DE-192,AgGCC>tgGCC,c.3605-2A>G,,NP_000486.1:p.?,,True,False,False
+⑧-DE-101,AgGTC>aaGTC,c.4199-1G>A,,NP_000486.1:p.?,,True,False,False
+⑧-DE-031,Pro865-Pro871>In-frame,c.2595_2612del,,NP_000486.1:p.(I867_G872del),,True,False,False
+⑮-1,p.Gly325Glu,c.974G>A,"('G', 325, 'E')",NP_000486.1:p.(G325E),"('G', 325, 'E')",False,True,True
+⑮-2,p.Gly988Glu,c.2963G>A,"('G', 988, 'E')",NP_000486.1:p.(G988E),"('G', 988, 'E')",False,True,True
+⑮-6,p.Gly828Arg,c.2482G>C,"('G', 828, 'R')",NP_000486.1:p.(G828R),"('G', 828, 'R')",False,True,True
+⑮-7,p.Pro212del,c.634_636delCCA,,NP_000486.1:p.(P212del),,True,False,False
+⑮-10,p.Gly1107Arg,c.3319G>C,"('G', 1107, 'R')",NP_000486.1:p.(G1107R),"('G', 1107, 'R')",False,True,True
+⑮-11,p.Gly545Val,c.1634G>T,"('G', 545, 'V')",NP_000486.1:p.(G545V),"('G', 545, 'V')",False,True,True
+⑮-12,p.Gly781X,c.2341G>T,"('G', 781, '*')",NP_000486.1:p.(G781*),"('G', 781, '*')",False,True,True
+⑮-13,p.Pro686fsX735,c.2057delC,,NP_000486.1:p.(P686Qfs*50),,True,False,False
+⑮-16,p.Gly1113fsX1151,c.3337_3338insCCGT,,NP_000486.1:p.(G1113Afs*25),,True,False,False
+⑮-17,p.Arg373X,c.1117C>T,"('R', 373, '*')",NP_000486.1:p.(R373*),"('R', 373, '*')",False,True,True
+⑮-18,p.Ile974fs1009,c.2922insC,,,,True,False,False

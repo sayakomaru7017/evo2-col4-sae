@@ -1,0 +1,31 @@
+gene,clinvar_name,aa_pos,chrom,grch38_position,ref,alt,genomic_coord,Variant type,Molecular consequence,clinvar_classification,evo2_delta_score_reference
+COL4A3,NM_000091.5(COL4A3):c.3539G>A (p.Gly1180Asp),1180.0,chr2,227295290,G,A,chr2:227295290 G>A,single nucleotide variant,missense variant,Likely pathogenic,-0.0004212856292724
+COL4A3,NM_000091.5(COL4A3):c.3682G>A (p.Gly1228Ser),1228.0,chr2,227297790,G,A,chr2:227297790 G>A,single nucleotide variant,missense variant,Likely pathogenic,-0.0004945993423461
+COL4A3,NM_000091.5(COL4A3):c.3884G>T (p.Gly1295Val),1295.0,chr2,227303039,G,T,chr2:227303039 G>T,single nucleotide variant,missense variant,Likely pathogenic,-0.0005266666412353
+COL4A3,NM_000091.5(COL4A3):c.1918G>A (p.Gly640Arg),640.0,chr2,227273108,G,A,chr2:227273108 G>A,single nucleotide variant,missense variant,Pathogenic/Likely pathogenic,-0.0005382299423217
+COL4A3,NM_000091.5(COL4A3):c.3575G>A (p.Gly1192Glu),1192.0,chr2,227297683,G,A,chr2:227297683 G>A,single nucleotide variant,missense variant,Pathogenic/Likely pathogenic,-0.0006157159805297
+COL4A3,NM_000091.5(COL4A3):c.3566G>A (p.Gly1189Glu),1189.0,chr2,227297674,G,A,chr2:227297674 G>A,single nucleotide variant,missense variant,Pathogenic/Likely pathogenic,-0.0006557703018188
+COL4A3,NM_000091.5(COL4A3):c.2603G>T (p.Gly868Val),868.0,chr2,227282479,G,T,chr2:227282479 G>T,single nucleotide variant,missense variant,Likely pathogenic,-0.0006747245788574
+COL4A3,NM_000091.5(COL4A3):c.3383G>A (p.Gly1128Asp),1128.0,chr2,227294535,G,A,chr2:227294535 G>A,single nucleotide variant,missense variant,Likely pathogenic,-0.0006884336471557
+COL4A3,NM_000091.5(COL4A3):c.962G>C (p.Gly321Ala),321.0,chr2,227256371,G,C,chr2:227256371 G>C,single nucleotide variant,missense variant,Likely pathogenic,-0.0007673501968383
+COL4A3,NM_000091.5(COL4A3):c.4235G>T (p.Gly1412Val),1412.0,chr2,227305066,G,T,chr2:227305066 G>T,single nucleotide variant,missense variant,Pathogenic/Likely pathogenic,-0.0007675886154174
+COL4A4,NM_000092.5(COL4A4):c.3052G>A (p.Gly1018Ser),1018.0,chr2,227051075,C,T,chr2:227051075 C>T,single nucleotide variant,missense variant,Likely pathogenic,-0.0001599788665771
+COL4A4,NM_000092.5(COL4A4):c.1598G>A (p.Gly533Asp),533.0,chr2,227088678,C,T,chr2:227088678 C>T,single nucleotide variant,missense variant,Pathogenic/Likely pathogenic,-0.0002715587615966
+COL4A4,NM_000092.5(COL4A4):c.1979G>A (p.Gly660Asp),660.0,chr2,227077902,C,T,chr2:227077902 C>T,single nucleotide variant,missense variant,Likely pathogenic,-0.0002949833869934
+COL4A4,NM_000092.5(COL4A4):c.1615G>A (p.Gly539Arg),539.0,chr2,227088661,C,T,chr2:227088661 C>T,single nucleotide variant,missense variant,Likely pathogenic,-0.0004911422729492
+COL4A4,NM_000092.5(COL4A4):c.2608G>A (p.Gly870Ser),870.0,chr2,227056053,C,T,chr2:227056053 C>T,single nucleotide variant,missense variant,Likely pathogenic,-0.000528335571289
+COL4A4,NM_000092.5(COL4A4):c.1978G>A (p.Gly660Ser),660.0,chr2,227077903,C,T,chr2:227077903 C>T,single nucleotide variant,missense variant,Likely pathogenic,-0.0005319118499755
+COL4A4,NM_000092.5(COL4A4):c.2092G>A (p.Gly698Arg),698.0,chr2,227060208,C,T,chr2:227060208 C>T,single nucleotide variant,missense variant,Pathogenic/Likely pathogenic,-0.0005338191986083
+COL4A4,NM_000092.5(COL4A4):c.1181G>T (p.Gly394Val),394.0,chr2,227098717,C,A,chr2:227098717 C>A,single nucleotide variant,missense variant,Likely pathogenic,-0.0005562305450439
+COL4A4,NM_000092.5(COL4A4):c.292G>A (p.Gly98Ser),98.0,chr2,227121049,C,T,chr2:227121049 C>T,single nucleotide variant,missense variant,Likely pathogenic,-0.0006451606750488
+COL4A4,NM_000092.5(COL4A4):c.3715G>A (p.Gly1239Arg),1239.0,chr2,227032047,C,T,chr2:227032047 C>T,single nucleotide variant,missense variant,Pathogenic,-0.0006947517395019
+COL4A5,NM_033380.3(COL4A5):c.3800G>A (p.Gly1267Asp),1267.0,chrX,108674745,G,A,chrX:108674745 G>A,single nucleotide variant,missense variant|intron variant,Likely pathogenic,6.139278411865234e-05
+COL4A5,NM_033380.3(COL4A5):c.4190G>T (p.Gly1397Val),1397.0,chrX,108681862,G,T,chrX:108681862 G>T,single nucleotide variant,missense variant,Likely pathogenic,-0.000371515750885
+COL4A5,NM_033380.3(COL4A5):c.4315G>A (p.Gly1439Ser),1439.0,chrX,108686129,G,A,chrX:108686129 G>A,single nucleotide variant,missense variant,Likely pathogenic,-0.0004045367240905
+COL4A5,NM_033380.3(COL4A5):c.2245G>A (p.Gly749Ser),749.0,chrX,108606742,G,A,chrX:108606742 G>A,single nucleotide variant,missense variant,Pathogenic,-0.0004697442054748
+COL4A5,NM_033380.3(COL4A5):c.3791G>T (p.Gly1264Val),1264.0,chrX,108670228,G,T,chrX:108670228 G>T,single nucleotide variant,missense variant|intron variant,Likely pathogenic,-0.0006048679351806
+COL4A5,NM_033380.3(COL4A5):c.973G>A (p.Gly325Arg),325.0,chrX,108582920,G,A,chrX:108582920 G>A,single nucleotide variant,missense variant,Pathogenic,-0.0006815195083618
+COL4A5,NM_033380.3(COL4A5):c.4163G>A (p.Gly1388Asp),1388.0,chrX,108681835,G,A,chrX:108681835 G>A,single nucleotide variant,missense variant,Likely pathogenic,-0.0006855130195617
+COL4A5,NM_033380.3(COL4A5):c.4172G>T (p.Gly1391Val),1391.0,chrX,108681844,G,T,chrX:108681844 G>T,single nucleotide variant,missense variant,Likely pathogenic,-0.0007019639015197
+COL4A5,NM_033380.3(COL4A5):c.1138G>A (p.Gly380Ser),380.0,chrX,108586720,G,A,chrX:108586720 G>A,single nucleotide variant,missense variant,Pathogenic,-0.0007940530776977
+COL4A5,NM_033380.3(COL4A5):c.610G>A (p.Gly204Ser),204.0,chrX,108577952,G,A,chrX:108577952 G>A,single nucleotide variant,missense variant,Likely pathogenic,-0.0008412599563598
