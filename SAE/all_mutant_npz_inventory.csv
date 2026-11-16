@@ -1,0 +1,221 @@
+path,gene,protein_change,clinvar_classification,offset
+/home/azureuser/Evo2/NC1 domain/COL4A3_C1616Y_mutant_sae_features.npz,COL4A3,p.Cys1616Tyr,Pathogenic/Likely pathogenic,146243
+/home/azureuser/Evo2/NC1 domain/COL4A3_L1598R_mutant_sae_features.npz,COL4A3,p.Leu1598Arg,Pathogenic/Likely pathogenic,146189
+/home/azureuser/Evo2/NC1 domain/COL4A3_Q1495R_mutant_sae_features.npz,COL4A3,p.Gln1495Arg,Benign/Likely benign,144296
+/home/azureuser/Evo2/NC1 domain/COL4A3_R1661H_mutant_sae_features.npz,COL4A3,p.Arg1661His,Pathogenic/Likely pathogenic,147215
+/home/azureuser/Evo2/NC1 domain/COL4A3_S1492C_mutant_sae_features.npz,COL4A3,p.Ser1492Cys,Pathogenic,144286
+/home/azureuser/Evo2/NC1 domain/COL4A4_A1558V_mutant_sae_features.npz,COL4A4,p.Ala1558Val,Likely benign,156334
+/home/azureuser/Evo2/NC1 domain/COL4A4_C1588S_mutant_sae_features.npz,COL4A4,p.Cys1588Ser,Likely pathogenic,156423
+/home/azureuser/Evo2/NC1 domain/COL4A4_C1641R_mutant_sae_features.npz,COL4A4,p.Cys1641Arg,Likely pathogenic,157011
+/home/azureuser/Evo2/NC1 domain/COL4A4_F1650L_mutant_sae_features.npz,COL4A4,p.Phe1650Leu,Likely pathogenic,157038
+/home/azureuser/Evo2/NC1 domain/COL4A4_G1508S_mutant_sae_features.npz,COL4A4,p.Gly1508Ser,Likely pathogenic,154175
+/home/azureuser/Evo2/NC1 domain/COL4A4_M1552I_mutant_sae_features.npz,COL4A4,p.Met1552Ile,Benign,156317
+/home/azureuser/Evo2/NC1 domain/COL4A4_M1603T_mutant_sae_features.npz,COL4A4,p.Met1603Thr,Likely pathogenic,156469
+/home/azureuser/Evo2/NC1 domain/COL4A4_Q1610R_mutant_sae_features.npz,COL4A4,p.Gln1610Arg,Likely benign,156919
+/home/azureuser/Evo2/NC1 domain/COL4A5_A1656E_mutant_sae_features.npz,COL4A5,p.Ala1656Glu,Likely pathogenic,255667
+/home/azureuser/Evo2/NC1 domain/COL4A5_C1482G_mutant_sae_features.npz,COL4A5,p.Cys1482Gly,Likely pathogenic,247865
+/home/azureuser/Evo2/NC1 domain/COL4A5_C1527W_mutant_sae_features.npz,COL4A5,p.Cys1527Trp,Likely pathogenic,253055
+/home/azureuser/Evo2/NC1 domain/COL4A5_C1533F_mutant_sae_features.npz,COL4A5,p.Cys1533Phe,Likely pathogenic,253072
+/home/azureuser/Evo2/NC1 domain/COL4A5_C1570F_mutant_sae_features.npz,COL4A5,p.Cys1570Phe,Likely pathogenic,255064
+/home/azureuser/Evo2/NC1 domain/COL4A5_C1570S_mutant_sae_features.npz,COL4A5,p.Cys1570Ser,Pathogenic,255064
+/home/azureuser/Evo2/NC1 domain/COL4A5_C1573R_mutant_sae_features.npz,COL4A5,p.Cys1573Arg,Pathogenic,255072
+/home/azureuser/Evo2/NC1 domain/COL4A5_C1573Y_mutant_sae_features.npz,COL4A5,p.Cys1573Tyr,Likely pathogenic,255073
+/home/azureuser/Evo2/NC1 domain/COL4A5_C1638R_mutant_sae_features.npz,COL4A5,p.Cys1638Arg,Pathogenic/Likely pathogenic,255612
+/home/azureuser/Evo2/NC1 domain/COL4A5_C1644G_mutant_sae_features.npz,COL4A5,p.Cys1644Gly,Pathogenic,255630
+/home/azureuser/Evo2/NC1 domain/COL4A5_C1644Y_mutant_sae_features.npz,COL4A5,p.Cys1644Tyr,Pathogenic/Likely pathogenic,255631
+/home/azureuser/Evo2/NC1 domain/COL4A5_C1684Y_mutant_sae_features.npz,COL4A5,p.Cys1684Tyr,Pathogenic/Likely pathogenic,256608
+/home/azureuser/Evo2/NC1 domain/COL4A5_G1492V_mutant_sae_features.npz,COL4A5,p.Gly1492Val,Likely pathogenic,247896
+/home/azureuser/Evo2/NC1 domain/COL4A5_G1510R_GA_mutant_sae_features.npz,COL4A5,p.Gly1510Arg,Likely pathogenic,247949
+/home/azureuser/Evo2/NC1 domain/COL4A5_G1510R_GC_mutant_sae_features.npz,COL4A5,p.Gly1510Arg,Pathogenic,247949
+/home/azureuser/Evo2/NC1 domain/COL4A5_G1602S_mutant_sae_features.npz,COL4A5,p.Gly1602Ser,Likely pathogenic,255159
+/home/azureuser/Evo2/NC1 domain/COL4A5_I1529T_mutant_sae_features.npz,COL4A5,p.Ile1529Thr,Likely benign,253060
+/home/azureuser/Evo2/NC1 domain/COL4A5_L1469R_mutant_sae_features.npz,COL4A5,p.Leu1469Arg,Likely pathogenic,247827
+/home/azureuser/Evo2/NC1 domain/COL4A5_L1655R_mutant_sae_features.npz,COL4A5,p.Leu1655Arg,Pathogenic/Likely pathogenic,255664
+/home/azureuser/Evo2/NC1 domain/COL4A5_P1590H_mutant_sae_features.npz,COL4A5,p.Pro1590His,Pathogenic,255124
+/home/azureuser/Evo2/NC1 domain/COL4A5_P1590L_mutant_sae_features.npz,COL4A5,p.Pro1590Leu,Likely pathogenic,255124
+/home/azureuser/Evo2/NC1 domain/COL4A5_P1590R_mutant_sae_features.npz,COL4A5,p.Pro1590Arg,Likely pathogenic,255124
+/home/azureuser/Evo2/NC1 domain/COL4A5_R1569P_mutant_sae_features.npz,COL4A5,p.Arg1569Pro,Likely pathogenic,253180
+/home/azureuser/Evo2/NC1 domain/COL4A5_R1569Q_mutant_sae_features.npz,COL4A5,p.Arg1569Gln,Pathogenic/Likely pathogenic,253180
+/home/azureuser/Evo2/NC1 domain/COL4A5_R1683Q_mutant_sae_features.npz,COL4A5,p.Arg1683Gln,Pathogenic/Likely pathogenic,256605
+/home/azureuser/Evo2/NC1 domain/COL4A5_S1604F_mutant_sae_features.npz,COL4A5,p.Ser1604Phe,Likely pathogenic,255166
+/home/azureuser/Evo2/NC1 domain/COL4A5_W1544S_mutant_sae_features.npz,COL4A5,p.Trp1544Ser,Pathogenic,253105
+/home/azureuser/Evo2/NC1 domain/COL4A5_Y1603C_mutant_sae_features.npz,COL4A5,p.Tyr1603Cys,Pathogenic/Likely pathogenic,255163
+/home/azureuser/Evo2/SAE/features/COL4A3_C1616Y_mutant_sae_features.npz,COL4A3,p.Cys1616Tyr,P/LP,146243
+/home/azureuser/Evo2/SAE/features/COL4A3_G1071A_mutant_sae_features.npz,COL4A3,p.Gly1071Ala,Likely pathogenic,128568
+/home/azureuser/Evo2/SAE/features/COL4A3_G1089D_mutant_sae_features.npz,COL4A3,p.Gly1089Asp,Pathogenic,128622
+/home/azureuser/Evo2/SAE/features/COL4A3_G1128D_mutant_sae_features.npz,COL4A3,p.Gly1128Asp,Likely pathogenic,129911
+/home/azureuser/Evo2/SAE/features/COL4A3_G1155D_mutant_sae_features.npz,COL4A3,p.Gly1155Asp,Pathogenic,130385
+/home/azureuser/Evo2/SAE/features/COL4A3_G1155S_mutant_sae_features.npz,COL4A3,p.Gly1155Ser,Likely pathogenic,130384
+/home/azureuser/Evo2/SAE/features/COL4A3_G1180D_mutant_sae_features.npz,COL4A3,p.Gly1180Asp,Likely pathogenic,130666
+/home/azureuser/Evo2/SAE/features/COL4A3_G1189E_mutant_sae_features.npz,COL4A3,p.Gly1189Glu,Pathogenic/Likely pathogenic,133050
+/home/azureuser/Evo2/SAE/features/COL4A3_G1192E_mutant_sae_features.npz,COL4A3,p.Gly1192Glu,Pathogenic/Likely pathogenic,133059
+/home/azureuser/Evo2/SAE/features/COL4A3_G1207E_mutant_sae_features.npz,COL4A3,p.Gly1207Glu,Pathogenic,133104
+/home/azureuser/Evo2/SAE/features/COL4A3_G1207W_mutant_sae_features.npz,COL4A3,p.Gly1207Trp,Likely pathogenic,133103
+/home/azureuser/Evo2/SAE/features/COL4A3_G1228S_mutant_sae_features.npz,COL4A3,p.Gly1228Ser,Likely pathogenic,133166
+/home/azureuser/Evo2/SAE/features/COL4A3_G1295V_mutant_sae_features.npz,COL4A3,p.Gly1295Val,Likely pathogenic,138415
+/home/azureuser/Evo2/SAE/features/COL4A3_G1412V_mutant_sae_features.npz,COL4A3,p.Gly1412Val,Pathogenic/Likely pathogenic,140442
+/home/azureuser/Evo2/SAE/features/COL4A3_G262E_mutant_sae_features.npz,COL4A3,p.Gly262Glu,edge_f11735_fire_base2,89507
+/home/azureuser/Evo2/SAE/features/COL4A3_G291E_mutant_sae_features.npz,COL4A3,p.Gly291Glu,Likely pathogenic,90075
+/home/azureuser/Evo2/SAE/features/COL4A3_G321A_mutant_sae_features.npz,COL4A3,p.Gly321Ala,Likely pathogenic,91747
+/home/azureuser/Evo2/SAE/features/COL4A3_G366E_mutant_sae_features.npz,COL4A3,,,95236
+/home/azureuser/Evo2/SAE/features/COL4A3_G395E_mutant_sae_features.npz,COL4A3,p.Gly395Glu,Pathogenic/Likely pathogenic,99189
+/home/azureuser/Evo2/SAE/features/COL4A3_G43R_mutant_sae_features.npz,COL4A3,p.Gly43Arg,nan,73383
+/home/azureuser/Evo2/SAE/features/COL4A3_G467E_mutant_sae_features.npz,COL4A3,p.Gly467Glu,Likely pathogenic,101877
+/home/azureuser/Evo2/SAE/features/COL4A3_G487C_mutant_sae_features.npz,COL4A3,p.Gly487Cys,edge_f11735_fire_base1,102419
+/home/azureuser/Evo2/SAE/features/COL4A3_G619R_mutant_sae_features.npz,COL4A3,p.Gly619Arg,edge_f11735_dropout_base1,108421
+/home/azureuser/Evo2/SAE/features/COL4A3_G640R_mutant_sae_features.npz,COL4A3,p.Gly640Arg,Pathogenic/Likely pathogenic,108484
+/home/azureuser/Evo2/SAE/features/COL4A3_G695R_mutant_sae_features.npz,COL4A3,p.Gly695Arg,Pathogenic/Likely pathogenic,112887
+/home/azureuser/Evo2/SAE/features/COL4A3_G753R_mutant_sae_features.npz,COL4A3,p.Gly753Arg,Likely pathogenic,115849
+/home/azureuser/Evo2/SAE/features/COL4A3_G868V_mutant_sae_features.npz,COL4A3,p.Gly868Val,Likely pathogenic,117855
+/home/azureuser/Evo2/SAE/features/COL4A3_G994D_mutant_sae_features.npz,COL4A3,p.Gly994Asp,Likely pathogenic,125375
+/home/azureuser/Evo2/SAE/features/COL4A3_L1598R_mutant_sae_features.npz,COL4A3,p.Leu1598Arg,P/LP,146189
+/home/azureuser/Evo2/SAE/features/COL4A3_Q1495R_mutant_sae_features.npz,COL4A3,p.Gln1495Arg,B/LB,144296
+/home/azureuser/Evo2/SAE/features/COL4A3_R1661H_mutant_sae_features.npz,COL4A3,p.Arg1661His,P/LP,147215
+/home/azureuser/Evo2/SAE/features/COL4A3_S1492C_mutant_sae_features.npz,COL4A3,p.Ser1492Cys,P,144286
+/home/azureuser/Evo2/SAE/features/COL4A4_A1558V_mutant_sae_features.npz,COL4A4,p.Ala1558Val,LB,156334
+/home/azureuser/Evo2/SAE/features/COL4A4_C1588S_mutant_sae_features.npz,COL4A4,p.Cys1588Ser,LP,156423
+/home/azureuser/Evo2/SAE/features/COL4A4_C1641R_mutant_sae_features.npz,COL4A4,p.Cys1641Arg,LP,157011
+/home/azureuser/Evo2/SAE/features/COL4A4_F1650L_mutant_sae_features.npz,COL4A4,p.Phe1650Leu,LP,157038
+/home/azureuser/Evo2/SAE/features/COL4A4_G1018S_mutant_sae_features.npz,COL4A4,p.Gly1018Ser,Likely pathogenic,113413
+/home/azureuser/Evo2/SAE/features/COL4A4_G1069R_mutant_sae_features.npz,COL4A4,p.Gly1069Arg,Pathogenic,114411
+/home/azureuser/Evo2/SAE/features/COL4A4_G1088R_mutant_sae_features.npz,COL4A4,p.Gly1088Arg,Likely pathogenic,116986
+/home/azureuser/Evo2/SAE/features/COL4A4_G1088V_mutant_sae_features.npz,COL4A4,p.Gly1088Val,Likely pathogenic,116987
+/home/azureuser/Evo2/SAE/features/COL4A4_G1230V_mutant_sae_features.npz,COL4A4,p.Gly1230Val,Likely pathogenic,132323
+/home/azureuser/Evo2/SAE/features/COL4A4_G1239R_mutant_sae_features.npz,COL4A4,p.Gly1239Arg,Pathogenic,132441
+/home/azureuser/Evo2/SAE/features/COL4A4_G1264R_mutant_sae_features.npz,COL4A4,p.Gly1264Arg,Likely pathogenic,132516
+/home/azureuser/Evo2/SAE/features/COL4A4_G1508S_mutant_sae_features.npz,COL4A4,p.Gly1508Ser,LP,154175
+/home/azureuser/Evo2/SAE/features/COL4A4_G273D_mutant_sae_features.npz,COL4A4,p.Gly273Asp,Likely pathogenic,61292
+/home/azureuser/Evo2/SAE/features/COL4A4_G285R_mutant_sae_features.npz,COL4A4,p.Gly285Arg,Pathogenic,61327
+/home/azureuser/Evo2/SAE/features/COL4A4_G367R_mutant_sae_features.npz,COL4A4,p.Gly367Arg,edge_f11735_dropout_base1,64868
+/home/azureuser/Evo2/SAE/features/COL4A4_G367S_mutant_sae_features.npz,COL4A4,p.Gly367Ser,Pathogenic/Likely pathogenic,64868
+/home/azureuser/Evo2/SAE/features/COL4A4_G394V_mutant_sae_features.npz,COL4A4,p.Gly394Val,Likely pathogenic,65771
+/home/azureuser/Evo2/SAE/features/COL4A4_G533D_mutant_sae_features.npz,COL4A4,p.Gly533Asp,Pathogenic/Likely pathogenic,75810
+/home/azureuser/Evo2/SAE/features/COL4A4_G539R_mutant_sae_features.npz,COL4A4,p.Gly539Arg,Likely pathogenic,75827
+/home/azureuser/Evo2/SAE/features/COL4A4_G545A_mutant_sae_features.npz,COL4A4,p.Gly545Ala,nan,82311
+/home/azureuser/Evo2/SAE/features/COL4A4_G619C_mutant_sae_features.npz,COL4A4,p.Gly619Cys,Pathogenic,86462
+/home/azureuser/Evo2/SAE/features/COL4A4_G619D_mutant_sae_features.npz,COL4A4,p.Gly619Asp,Pathogenic/Likely pathogenic,86463
+/home/azureuser/Evo2/SAE/features/COL4A4_G639R_mutant_sae_features.npz,COL4A4,p.Gly639Arg,Likely pathogenic,86522
+/home/azureuser/Evo2/SAE/features/COL4A4_G660D_mutant_sae_features.npz,COL4A4,p.Gly660Asp,Likely pathogenic,86586
+/home/azureuser/Evo2/SAE/features/COL4A4_G660S_mutant_sae_features.npz,COL4A4,p.Gly660Ser,Likely pathogenic,86585
+/home/azureuser/Evo2/SAE/features/COL4A4_G677S_mutant_sae_features.npz,COL4A4,p.Gly677Ser,Pathogenic/Likely pathogenic,101931
+/home/azureuser/Evo2/SAE/features/COL4A4_G698R_mutant_sae_features.npz,COL4A4,p.Gly698Arg,Pathogenic/Likely pathogenic,104280
+/home/azureuser/Evo2/SAE/features/COL4A4_G742R_mutant_sae_features.npz,COL4A4,p.Gly742Arg,Likely pathogenic,104924
+/home/azureuser/Evo2/SAE/features/COL4A4_G870S_mutant_sae_features.npz,COL4A4,p.Gly870Ser,Likely pathogenic,108435
+/home/azureuser/Evo2/SAE/features/COL4A4_G98S_mutant_sae_features.npz,COL4A4,p.Gly98Ser,Likely pathogenic,43439
+/home/azureuser/Evo2/SAE/features/COL4A4_G999E_mutant_sae_features.npz,COL4A4,p.Gly999Glu,nan,113357
+/home/azureuser/Evo2/SAE/features/COL4A4_M1552I_mutant_sae_features.npz,COL4A4,p.Met1552Ile,B,156317
+/home/azureuser/Evo2/SAE/features/COL4A4_M1603T_mutant_sae_features.npz,COL4A4,p.Met1603Thr,LP,156469
+/home/azureuser/Evo2/SAE/features/COL4A4_Q1610R_mutant_sae_features.npz,COL4A4,p.Gln1610Arg,LB,156919
+/home/azureuser/Evo2/SAE/features/COL4A5_C1570S_mutant_sae_features.npz,COL4A5,p.Cys1570Ser,P,255064
+/home/azureuser/Evo2/SAE/features/COL4A5_C1638R_mutant_sae_features.npz,COL4A5,p.Cys1638Arg,P/LP,255612
+/home/azureuser/Evo2/SAE/features/COL4A5_C1644G_mutant_sae_features.npz,COL4A5,p.Cys1644Gly,P,255630
+/home/azureuser/Evo2/SAE/features/COL4A5_C1684Y_mutant_sae_features.npz,COL4A5,p.Cys1684Tyr,P/LP,256608
+/home/azureuser/Evo2/SAE/features/COL4A5_G1036E_mutant_sae_features.npz,COL4A5,p.Gly1036Glu,Pathogenic/Likely pathogenic,186465
+/home/azureuser/Evo2/SAE/features/COL4A5_G1066S_mutant_sae_features.npz,COL4A5,p.Gly1066Ser,Pathogenic,186554
+/home/azureuser/Evo2/SAE/features/COL4A5_G1158E_mutant_sae_features.npz,COL4A5,p.Gly1158Glu,continuous_dropout_base2,226769
+/home/azureuser/Evo2/SAE/features/COL4A5_G1161R_mutant_sae_features.npz,COL4A5,p.Gly1161Arg,Pathogenic,226777
+/home/azureuser/Evo2/SAE/features/COL4A5_G1229C_mutant_sae_features.npz,COL4A5,p.Gly1229Cys,Likely pathogenic,228654
+/home/azureuser/Evo2/SAE/features/COL4A5_G1229D_mutant_sae_features.npz,COL4A5,p.Gly1229Asp,Pathogenic/Likely pathogenic,228655
+/home/azureuser/Evo2/SAE/features/COL4A5_G1235C_mutant_sae_features.npz,COL4A5,p.Gly1235Cys,Likely pathogenic,228672
+/home/azureuser/Evo2/SAE/features/COL4A5_G1235V_mutant_sae_features.npz,COL4A5,p.Gly1235Val,Pathogenic,228673
+/home/azureuser/Evo2/SAE/features/COL4A5_G1264V_mutant_sae_features.npz,COL4A5,p.Gly1264Val,Likely pathogenic,230483
+/home/azureuser/Evo2/SAE/features/COL4A5_G1267D_mutant_sae_features.npz,COL4A5,p.Gly1267Asp,Likely pathogenic,235000
+/home/azureuser/Evo2/SAE/features/COL4A5_G1379R_mutant_sae_features.npz,COL4A5,p.Gly1379Arg,continuous_dropout_base1,242062
+/home/azureuser/Evo2/SAE/features/COL4A5_G1388D_mutant_sae_features.npz,COL4A5,p.Gly1388Asp,Likely pathogenic,242090
+/home/azureuser/Evo2/SAE/features/COL4A5_G1391V_mutant_sae_features.npz,COL4A5,p.Gly1391Val,Likely pathogenic,242099
+/home/azureuser/Evo2/SAE/features/COL4A5_G1397V_mutant_sae_features.npz,COL4A5,p.Gly1397Val,Likely pathogenic,242117
+/home/azureuser/Evo2/SAE/features/COL4A5_G1427W_mutant_sae_features.npz,COL4A5,p.Gly1427Trp,continuous_dropout_base1,246348
+/home/azureuser/Evo2/SAE/features/COL4A5_G1439S_mutant_sae_features.npz,COL4A5,p.Gly1439Ser,Likely pathogenic,246384
+/home/azureuser/Evo2/SAE/features/COL4A5_G204S_mutant_sae_features.npz,COL4A5,p.Gly204Ser,Likely pathogenic,138207
+/home/azureuser/Evo2/SAE/features/COL4A5_G216E_mutant_sae_features.npz,COL4A5,p.Gly216Glu,Pathogenic,138334
+/home/azureuser/Evo2/SAE/features/COL4A5_G224V_mutant_sae_features.npz,COL4A5,p.Gly224Val,edge_f11735_dropout_base2,138358
+/home/azureuser/Evo2/SAE/features/COL4A5_G313C_mutant_sae_features.npz,COL4A5,p.Gly313Cys,Likely pathogenic,143139
+/home/azureuser/Evo2/SAE/features/COL4A5_G313R_mutant_sae_features.npz,COL4A5,p.Gly313Arg,Pathogenic,143139
+/home/azureuser/Evo2/SAE/features/COL4A5_G325R_mutant_sae_features.npz,COL4A5,p.Gly325Arg,Pathogenic,143175
+/home/azureuser/Evo2/SAE/features/COL4A5_G380S_mutant_sae_features.npz,COL4A5,p.Gly380Ser,Pathogenic,146975
+/home/azureuser/Evo2/SAE/features/COL4A5_G457C_mutant_sae_features.npz,COL4A5,p.Gly457Cys,edge_f11735_fire_base1,151845
+/home/azureuser/Evo2/SAE/features/COL4A5_G494C_mutant_sae_features.npz,COL4A5,p.Gly494Cys,Pathogenic,155820
+/home/azureuser/Evo2/SAE/features/COL4A5_G558R_mutant_sae_features.npz,COL4A5,p.Gly558Arg,edge_f11735_dropout_base1,157716
+/home/azureuser/Evo2/SAE/features/COL4A5_G600V_mutant_sae_features.npz,COL4A5,p.Gly600Val,edge_f11735_dropout_base2,158976
+/home/azureuser/Evo2/SAE/features/COL4A5_G650S_mutant_sae_features.npz,COL4A5,p.Gly650Ser,Pathogenic/Likely pathogenic,159125
+/home/azureuser/Evo2/SAE/features/COL4A5_G710E_mutant_sae_features.npz,COL4A5,p.Gly710Glu,edge_f11735_fire_base2,162227
+/home/azureuser/Evo2/SAE/features/COL4A5_G749S_mutant_sae_features.npz,COL4A5,p.Gly749Ser,Pathogenic,166997
+/home/azureuser/Evo2/SAE/features/COL4A5_G757R_mutant_sae_features.npz,COL4A5,p.Gly757Arg,Likely pathogenic,167021
+/home/azureuser/Evo2/SAE/features/COL4A5_G822R_mutant_sae_features.npz,COL4A5,p.Gly822Arg,Pathogenic/Likely pathogenic,175234
+/home/azureuser/Evo2/SAE/features/COL4A5_G860D_mutant_sae_features.npz,COL4A5,p.Gly860Asp,Likely pathogenic,180583
+/home/azureuser/Evo2/SAE/features/COL4A5_G860R_mutant_sae_features.npz,COL4A5,p.Gly860Arg,edge_f11735_fire_base1,180582
+/home/azureuser/Evo2/SAE/features/COL4A5_G893A_mutant_sae_features.npz,COL4A5,p.Gly893Ala,Pathogenic,182058
+/home/azureuser/Evo2/SAE/features/COL4A5_G893V_mutant_sae_features.npz,COL4A5,p.Gly893Val,continuous_dropout_base2,182058
+/home/azureuser/Evo2/SAE/features/COL4A5_G896S_mutant_sae_features.npz,COL4A5,p.Gly896Ser,continuous_dropout_base1,182066
+/home/azureuser/Evo2/SAE/features/COL4A5_G914D_mutant_sae_features.npz,COL4A5,p.Gly914Asp,Pathogenic,182121
+/home/azureuser/Evo2/SAE/features/COL4A5_G953V_mutant_sae_features.npz,COL4A5,p.Gly953Val,nan,183021
+/home/azureuser/Evo2/SAE/features/COL4A5_I1529T_mutant_sae_features.npz,COL4A5,p.Ile1529Thr,LB,253060
+/home/azureuser/Evo2/SAE/features/COL4A5_R1569P_mutant_sae_features.npz,COL4A5,p.Arg1569Pro,LP,253180
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A3_G1071A_mutant_sae_features.npz,COL4A3,p.Gly1071Ala,Likely pathogenic,128568
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A3_G1180D_mutant_sae_features.npz,COL4A3,p.Gly1180Asp,Likely pathogenic,130666
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A3_G1228S_mutant_sae_features.npz,COL4A3,p.Gly1228Ser,Likely pathogenic,133166
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A3_G1295V_mutant_sae_features.npz,COL4A3,p.Gly1295Val,Likely pathogenic,138415
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A3_G291E_mutant_sae_features.npz,COL4A3,p.Gly291Glu,Likely pathogenic,90075
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A3_G395E_mutant_sae_features.npz,COL4A3,p.Gly395Glu,Pathogenic/Likely pathogenic,99189
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A3_G467E_mutant_sae_features.npz,COL4A3,p.Gly467Glu,Likely pathogenic,101877
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A3_G487C_mutant_sae_features.npz,COL4A3,p.Gly487Cys,edge_f11735_fire_base1,102419
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A3_G619R_mutant_sae_features.npz,COL4A3,p.Gly619Arg,edge_f11735_dropout_base1,108421
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A3_G695R_mutant_sae_features.npz,COL4A3,p.Gly695Arg,Pathogenic/Likely pathogenic,112887
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A3_G753R_mutant_sae_features.npz,COL4A3,p.Gly753Arg,Likely pathogenic,115849
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A3_G994D_mutant_sae_features.npz,COL4A3,p.Gly994Asp,Likely pathogenic,125375
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A4_G1018S_mutant_sae_features.npz,COL4A4,p.Gly1018Ser,Likely pathogenic,113413
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A4_G1088R_mutant_sae_features.npz,COL4A4,p.Gly1088Arg,Likely pathogenic,116986
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A4_G1230V_mutant_sae_features.npz,COL4A4,p.Gly1230Val,Likely pathogenic,132323
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A4_G1264R_mutant_sae_features.npz,COL4A4,p.Gly1264Arg,Likely pathogenic,132516
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A4_G273D_mutant_sae_features.npz,COL4A4,p.Gly273Asp,Likely pathogenic,61292
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A4_G367R_mutant_sae_features.npz,COL4A4,p.Gly367Arg,edge_f11735_dropout_base1,64868
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A4_G367S_mutant_sae_features.npz,COL4A4,p.Gly367Ser,Pathogenic/Likely pathogenic,64868
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A4_G639R_mutant_sae_features.npz,COL4A4,p.Gly639Arg,Likely pathogenic,86522
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A4_G677S_mutant_sae_features.npz,COL4A4,p.Gly677Ser,Pathogenic/Likely pathogenic,101931
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A4_G742R_mutant_sae_features.npz,COL4A4,p.Gly742Arg,Likely pathogenic,104924
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G1036E_mutant_sae_features.npz,COL4A5,p.Gly1036Glu,Pathogenic/Likely pathogenic,186465
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G1066S_mutant_sae_features.npz,COL4A5,p.Gly1066Ser,Pathogenic,186554
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G1161R_mutant_sae_features.npz,COL4A5,p.Gly1161Arg,Pathogenic,226777
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G1427W_mutant_sae_features.npz,COL4A5,p.Gly1427Trp,continuous_dropout_base1,246348
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G216E_mutant_sae_features.npz,COL4A5,p.Gly216Glu,Pathogenic,138334
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G313C_mutant_sae_features.npz,COL4A5,p.Gly313Cys,Likely pathogenic,143139
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G313R_mutant_sae_features.npz,COL4A5,p.Gly313Arg,Pathogenic,143139
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G600V_mutant_sae_features.npz,COL4A5,p.Gly600Val,edge_f11735_dropout_base2,158976
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G650S_mutant_sae_features.npz,COL4A5,p.Gly650Ser,Pathogenic/Likely pathogenic,159125
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G749S_mutant_sae_features.npz,COL4A5,p.Gly749Ser,Pathogenic,166997
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G757R_mutant_sae_features.npz,COL4A5,p.Gly757Arg,Likely pathogenic,167021
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G822R_mutant_sae_features.npz,COL4A5,p.Gly822Arg,Pathogenic/Likely pathogenic,175234
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G860D_mutant_sae_features.npz,COL4A5,p.Gly860Asp,Likely pathogenic,180583
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G893A_mutant_sae_features.npz,COL4A5,p.Gly893Ala,Pathogenic,182058
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G893V_mutant_sae_features.npz,COL4A5,p.Gly893Val,continuous_dropout_base2,182058
+/home/azureuser/Evo2/evo2/Gly substitution/COL4A5_G896S_mutant_sae_features.npz,COL4A5,p.Gly896Ser,continuous_dropout_base1,182066
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A3_G1128D_mutant_sae_features.npz,COL4A3,p.Gly1128Asp,Likely pathogenic,129911
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A3_G1180D_mutant_sae_features.npz,COL4A3,p.Gly1180Asp,Likely pathogenic,130666
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A3_G1189E_mutant_sae_features.npz,COL4A3,p.Gly1189Glu,Pathogenic/Likely pathogenic,133050
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A3_G1192E_mutant_sae_features.npz,COL4A3,p.Gly1192Glu,Pathogenic/Likely pathogenic,133059
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A3_G1228S_mutant_sae_features.npz,COL4A3,p.Gly1228Ser,Likely pathogenic,133166
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A3_G1295V_mutant_sae_features.npz,COL4A3,p.Gly1295Val,Likely pathogenic,138415
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A3_G1412V_mutant_sae_features.npz,COL4A3,p.Gly1412Val,Pathogenic/Likely pathogenic,140442
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A3_G321A_mutant_sae_features.npz,COL4A3,p.Gly321Ala,Likely pathogenic,91747
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A3_G640R_mutant_sae_features.npz,COL4A3,p.Gly640Arg,Pathogenic/Likely pathogenic,108484
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A3_G868V_mutant_sae_features.npz,COL4A3,p.Gly868Val,Likely pathogenic,117855
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A4_G1018S_mutant_sae_features.npz,COL4A4,p.Gly1018Ser,Likely pathogenic,113413
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A4_G1239R_mutant_sae_features.npz,COL4A4,p.Gly1239Arg,Pathogenic,132441
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A4_G394V_mutant_sae_features.npz,COL4A4,p.Gly394Val,Likely pathogenic,65771
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A4_G533D_mutant_sae_features.npz,COL4A4,p.Gly533Asp,Pathogenic/Likely pathogenic,75810
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A4_G539R_mutant_sae_features.npz,COL4A4,p.Gly539Arg,Likely pathogenic,75827
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A4_G660D_mutant_sae_features.npz,COL4A4,p.Gly660Asp,Likely pathogenic,86586
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A4_G660S_mutant_sae_features.npz,COL4A4,p.Gly660Ser,Likely pathogenic,86585
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A4_G698R_mutant_sae_features.npz,COL4A4,p.Gly698Arg,Pathogenic/Likely pathogenic,104280
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A4_G870S_mutant_sae_features.npz,COL4A4,p.Gly870Ser,Likely pathogenic,108435
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A4_G98S_mutant_sae_features.npz,COL4A4,p.Gly98Ser,Likely pathogenic,43439
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A5_G1264V_mutant_sae_features.npz,COL4A5,p.Gly1264Val,Likely pathogenic,230483
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A5_G1267D_mutant_sae_features.npz,COL4A5,p.Gly1267Asp,Likely pathogenic,235000
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A5_G1388D_mutant_sae_features.npz,COL4A5,p.Gly1388Asp,Likely pathogenic,242090
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A5_G1391V_mutant_sae_features.npz,COL4A5,p.Gly1391Val,Likely pathogenic,242099
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A5_G1397V_mutant_sae_features.npz,COL4A5,p.Gly1397Val,Likely pathogenic,242117
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A5_G1439S_mutant_sae_features.npz,COL4A5,p.Gly1439Ser,Likely pathogenic,246384
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A5_G204S_mutant_sae_features.npz,COL4A5,p.Gly204Ser,Likely pathogenic,138207
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A5_G325R_mutant_sae_features.npz,COL4A5,p.Gly325Arg,Pathogenic,143175
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A5_G380S_mutant_sae_features.npz,COL4A5,p.Gly380Ser,Pathogenic,146975
+/home/azureuser/Evo2/evo2/Gly substitution/score is benign/COL4A5_G749S_mutant_sae_features.npz,COL4A5,p.Gly749Ser,Pathogenic,166997

@@ -1,0 +1,3 @@
+gene,protein_change,GRCh38_chr,GRCh38_pos,ref,alt,clinvar_classification,evo2_delta_score
+COL4A3,p.Gly43Arg,2,227238007,G,C,Benign,-0.001981
+COL4A4,p.Gly545Ala,2,227082177,C,G,Benign,-0.001023

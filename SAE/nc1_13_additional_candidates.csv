@@ -1,0 +1,14 @@
+gene,protein_change,GRCh38_chr,GRCh38_pos,ref,alt,clinvar_classification,evo2_delta_score,aa_tag
+COL4A5,p.Cys1527Tyr,X,108692799,G,A,Pathogenic,,C1527Y
+COL4A5,p.Cys1638Tyr,X,108695358,G,A,Pathogenic,,C1638Y
+COL4A5,p.Cys1644Phe,X,108695376,G,T,Pathogenic,,C1644F
+COL4A5,p.Asn1649Ser,X,108695391,A,G,Pathogenic,,N1649S
+COL4A5,p.Cys1684Arg,X,108696352,T,C,Pathogenic,,C1684R
+COL4A5,p.Cys1687Tyr,X,108696362,G,A,Pathogenic,,C1687Y
+COL4A5,p.Arg1683Leu,X,108696350,G,T,Pathogenic,,R1683L
+COL4A5,p.Thr1486Arg,X,108687623,C,G,Pathogenic,,T1486R
+COL4A5,p.Arg1517His,X,108692769,G,A,Pathogenic,,R1517H
+COL4A5,p.Ala1581Ser,X,108694841,G,T,"population-tolerated(Benign-leaning, not ClinVar-Benign)",,A1581S
+COL4A5,p.Pro1548Leu,X,108692862,C,T,"population-tolerated(Benign-leaning, not ClinVar-Benign)",,P1548L
+COL4A5,p.Thr1671Met,X,108696314,C,T,"population-tolerated(Benign-leaning, not ClinVar-Benign)",,T1671M
+COL4A5,p.Arg1631Cys,X,108695336,C,T,"population-tolerated(Benign-leaning, not ClinVar-Benign)",,R1631C

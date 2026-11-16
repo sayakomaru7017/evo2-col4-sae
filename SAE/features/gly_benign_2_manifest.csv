@@ -1,0 +1,3 @@
+gene,protein_change,aa_tag,npz,skipped
+COL4A3,p.Gly43Arg,G43R,COL4A3_G43R_mutant_sae_features.npz,True
+COL4A4,p.Gly545Ala,G545A,COL4A4_G545A_mutant_sae_features.npz,True

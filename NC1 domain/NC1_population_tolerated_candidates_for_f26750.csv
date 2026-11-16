@@ -1,0 +1,5 @@
+﻿Gene,GRCh38Chromosome,GRCh38Location,ref,alt,protein_change,transcript,control_category,priority,evidence_summary,do_not_label_as
+COL4A5,X,108694841,G,T,p.Ala1581Ser,NM_033380.3,population-tolerated,Tier 1,"ClinVar aggregate conflicting, but 3 submissions are Benign/Likely benign; gnomAD frequency ~3.38e-4 with 140 hemizygotes and 1 homozygote reported by GeneBe.",ClinVar Benign
+COL4A5,X,108692862,C,T,p.Pro1548Leu,NM_033380.3,population-tolerated,Tier 1,PreventionGenetics submission: Likely benign; ClinVar aggregate conflicting; ClinVar Miner reports gnomAD frequency ~4e-5.,ClinVar Benign
+COL4A5,X,108696314,C,T,p.Thr1671Met,NM_033380.3,population-tolerated,Tier 1,Reported as Likely benign in ClinVar/ClinVar Miner for inborn genetic diseases; gnomAD frequency ~1.1e-4.,ClinVar Benign
+COL4A5,X,108695336,C,T,p.Arg1631Cys,NM_033380.3,population-tolerated candidate,Tier 2,ClinVar aggregate conflicting; gnomAD frequency ~1e-5 and reported in multiple hemizygous males; a 2026 case report describes an asymptomatic hemizygous carrier and interprets the variant as incidental/uncertain-to-likely-benign.,Benign

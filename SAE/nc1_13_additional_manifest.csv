@@ -1,0 +1,14 @@
+gene,protein_change,aa_tag,npz,skipped
+COL4A5,p.Cys1527Tyr,C1527Y,COL4A5_C1527Y_mutant_sae_features.npz,False
+COL4A5,p.Cys1638Tyr,C1638Y,COL4A5_C1638Y_mutant_sae_features.npz,False
+COL4A5,p.Cys1644Phe,C1644F,COL4A5_C1644F_mutant_sae_features.npz,False
+COL4A5,p.Asn1649Ser,N1649S,COL4A5_N1649S_mutant_sae_features.npz,False
+COL4A5,p.Cys1684Arg,C1684R,COL4A5_C1684R_mutant_sae_features.npz,False
+COL4A5,p.Cys1687Tyr,C1687Y,COL4A5_C1687Y_mutant_sae_features.npz,False
+COL4A5,p.Arg1683Leu,R1683L,COL4A5_R1683L_mutant_sae_features.npz,False
+COL4A5,p.Thr1486Arg,T1486R,COL4A5_T1486R_mutant_sae_features.npz,False
+COL4A5,p.Arg1517His,R1517H,COL4A5_R1517H_mutant_sae_features.npz,False
+COL4A5,p.Ala1581Ser,A1581S,COL4A5_A1581S_mutant_sae_features.npz,False
+COL4A5,p.Pro1548Leu,P1548L,COL4A5_P1548L_mutant_sae_features.npz,False
+COL4A5,p.Thr1671Met,T1671M,COL4A5_T1671M_mutant_sae_features.npz,False
+COL4A5,p.Arg1631Cys,R1631C,COL4A5_R1631C_mutant_sae_features.npz,False
