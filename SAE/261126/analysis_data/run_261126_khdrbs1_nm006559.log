@@ -1,0 +1,3 @@
+KHDRBS1 (NM_006559.3, chr1:32,013,868-32,043,877): 30,010 x 32,768  nnz=1,920,640 (64.0/pos)  13.7s -> KHDRBS1_sae_features.npz [5.8 MB]  method=single_chunk
+Peak GPU memory: 26.11 GB
+NOTE: replaces the earlier KHDRBS1 run, which used the longer NR_073499.2-based span (chr1:32013868-32060850, 46,983bp) by mistake.
