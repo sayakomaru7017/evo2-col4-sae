@@ -1,0 +1,12 @@
+=== COL1A1  17,531 bp  method=single_chunk ===
+  17,531 x 32,768  nnz=1,121,984 (64.0/pos)  10.9s -> COL1A1_sae_features.npz  [3.3 MB]
+=== SFTPD  11,366 bp  method=single_chunk ===
+  11,366 x 32,768  nnz=727,424 (64.0/pos)  4.0s -> SFTPD_sae_features.npz  [2.2 MB]
+=== SRSF1  6,328 bp  method=single_chunk ===
+  6,328 x 32,768  nnz=404,992 (64.0/pos)  2.9s -> SRSF1_sae_features.npz  [1.2 MB]
+=== KHDRBS1  46,983 bp  method=single_chunk ===
+  46,983 x 32,768  nnz=3,006,912 (64.0/pos)  13.0s -> KHDRBS1_sae_features.npz  [9.2 MB]
+=== FibH  15,792 bp  method=single_chunk ===
+  15,792 x 32,768  nnz=1,010,688 (64.0/pos)  4.7s -> FibH_sae_features.npz  [2.5 MB]
+
+Peak GPU memory: 33.45 GB
