@@ -1,0 +1,27 @@
+{
+  "model": "evo2_7b",
+  "cache_root": "/home/azureuser/.cache/huggingface/hub",
+  "cache_revision": "bda0089f92582d5baabf0f22d9fc85f3588f6b58",
+  "snapshot": "/home/azureuser/.cache/huggingface/hub/models--arcinstitute--evo2_7b/snapshots/bda0089f92582d5baabf0f22d9fc85f3588f6b58",
+  "weights": "/home/azureuser/.cache/huggingface/hub/models--arcinstitute--evo2_7b/snapshots/bda0089f92582d5baabf0f22d9fc85f3588f6b58/evo2_7b.pt",
+  "weight_bytes": 13766621200,
+  "weight_provenance": "complete weight in expected snapshot",
+  "versions": {
+    "evo2": "0.6.0",
+    "vtx": "1.1.0"
+  },
+  "torch": "2.7.1+cu128",
+  "gpu": "NVIDIA A100 80GB PCIe",
+  "signature": "(self, seqs: List[str], batch_size: int = 1, prepend_bos: bool = False, reduce_method: str = 'mean', average_reverse_complement: bool = False) -> List[float]",
+  "ref_tolerance": 1e-05,
+  "allow_numeric_drift": false,
+  "hard_limit": 1e-05,
+  "reference_sha256": "908c7f134174e6e6db6aa75243ee01c3ed098ce84f7c8d6bc46985ea83737ce9",
+  "reuse_ref": false,
+  "HF_HUB_OFFLINE": "1",
+  "script_sha256": "295921cb4c74a96c56de2acfba665b89016811f33a7bb7b4fedd31ccce45c8ab",
+  "prepared_sha256": "f801fae5aaa32a7b735a13a64da2bce47f8c5b3900a16f6ab3d86218b6e25da3",
+  "loader_sha256": "0b757fcc42b37a52b0c3f508e876a52356331392ae8aa16a923576265043b78c",
+  "ctor_signature": "(model_name: str = 'evo2_7b', local_path: str = None, use_kernels: bool = False)",
+  "HAS_TE": false
+}

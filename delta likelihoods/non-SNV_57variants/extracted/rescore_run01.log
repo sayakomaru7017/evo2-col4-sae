@@ -1,0 +1,501 @@
+{'cache_root': '/home/azureuser/.cache/huggingface/hub', 'cache_revision': 'bda0089f92582d5baabf0f22d9fc85f3588f6b58', 'snapshot': '/home/azureuser/.cache/huggingface/hub/models--arcinstitute--evo2_7b/snapshots/bda0089f92582d5baabf0f22d9fc85f3588f6b58', 'weights': '/home/azureuser/.cache/huggingface/hub/models--arcinstitute--evo2_7b/snapshots/bda0089f92582d5baabf0f22d9fc85f3588f6b58/evo2_7b.pt', 'weight_bytes': 13766621200, 'weight_provenance': 'complete weight in expected snapshot'}
+{'model': 'evo2_7b', 'cache_root': '/home/azureuser/.cache/huggingface/hub', 'cache_revision': 'bda0089f92582d5baabf0f22d9fc85f3588f6b58', 'snapshot': '/home/azureuser/.cache/huggingface/hub/models--arcinstitute--evo2_7b/snapshots/bda0089f92582d5baabf0f22d9fc85f3588f6b58', 'weights': '/home/azureuser/.cache/huggingface/hub/models--arcinstitute--evo2_7b/snapshots/bda0089f92582d5baabf0f22d9fc85f3588f6b58/evo2_7b.pt', 'weight_bytes': 13766621200, 'weight_provenance': 'complete weight in expected snapshot', 'versions': {'evo2': '0.6.0', 'vtx': '1.1.0'}, 'torch': '2.7.1+cu128', 'gpu': 'NVIDIA A100 80GB PCIe', 'signature': "(self, seqs: List[str], batch_size: int = 1, prepend_bos: bool = False, reduce_method: str = 'mean', average_reverse_complement: bool = False) -> List[float]", 'ref_tolerance': 1e-05, 'allow_numeric_drift': False, 'hard_limit': 1e-05, 'reference_sha256': '908c7f134174e6e6db6aa75243ee01c3ed098ce84f7c8d6bc46985ea83737ce9', 'reuse_ref': False, 'HF_HUB_OFFLINE': '1', 'script_sha256': '295921cb4c74a96c56de2acfba665b89016811f33a7bb7b4fedd31ccce45c8ab', 'prepared_sha256': 'f801fae5aaa32a7b735a13a64da2bce47f8c5b3900a16f6ab3d86218b6e25da3', 'loader_sha256': '0b757fcc42b37a52b0c3f508e876a52356331392ae8aa16a923576265043b78c', 'ctor_signature': "(model_name: str = 'evo2_7b', local_path: str = None, use_kernels: bool = False)", 'HAS_TE': False}
+Found complete file in repo: evo2_7b.pt
+/home/azureuser/Evo2/evo2/models.py:294: UserWarning: Transformer Engine not installed. Falling back to bf16 projections (use_fp8_input_projections=False). 
+  warnings.warn(
+[11/28/26 05:22:52] INFO     StripedHyena - INFO - Initializing     model.py:645
+                             StripedHyena with config:                          
+                             {'model_name': 'shc-evo2-7b-8k-2T-v2',             
+                             'vocab_size': 512, 'hidden_size':                  
+                             4096, 'num_filters': 4096,                         
+                             'hcl_layer_idxs': [2, 6, 9, 13, 16,                
+                             20, 23, 27, 30], 'hcm_layer_idxs': [1,             
+                             5, 8, 12, 15, 19, 22, 26, 29],                     
+                             'hcs_layer_idxs': [0, 4, 7, 11, 14,                
+                             18, 21, 25, 28], 'attn_layer_idxs':                
+                             [3, 10, 17, 24, 31],                               
+                             'hcm_filter_length': 128,                          
+                             'hcl_filter_groups': 4096,                         
+                             'hcm_filter_groups': 256,                          
+                             'hcs_filter_groups': 256,                          
+                             'hcs_filter_length': 7, 'num_layers':              
+                             32, 'short_filter_length': 3,                      
+                             'num_attention_heads': 32,                         
+                             'short_filter_bias': False,                        
+                             'mlp_init_method':                                 
+                             'torch.nn.init.zeros_',                            
+                             'mlp_output_init_method':                          
+                             'torch.nn.init.zeros_', 'eps': 1e-06,              
+                             'state_size': 16, 'rotary_emb_base':               
+                             10000, 'rotary_emb_scaling_factor':                
+                             128,                                               
+                             'use_interpolated_rotary_pos_emb':                 
+                             True, 'make_vocab_size_divisible_by':              
+                             8, 'inner_size_multiple_of': 16,                   
+                             'inner_mlp_size': 11264,                           
+                             'log_intermediate_values': False,                  
+                             'proj_groups': 1,                                  
+                             'hyena_filter_groups': 1,                          
+                             'column_split_hyena': False,                       
+                             'column_split': True, 'interleave':                
+                             True, 'evo2_style_activations': True,              
+                             'model_parallel_size': 1,                          
+                             'pipe_parallel_size': 1,                           
+                             'tie_embeddings': True,                            
+                             'mha_out_proj_bias': True,                         
+                             'hyena_out_proj_bias': True,                       
+                             'hyena_flip_x1x2': False,                          
+                             'qkv_proj_bias': False,                            
+                             'use_fp8_input_projections': False,                
+                             'max_seqlen': 1048576,                             
+                             'max_batch_size': 1, 'final_norm':                 
+                             True, 'use_flash_attn': True,                      
+                             'use_flash_rmsnorm': False,                        
+                             'use_flash_depthwise': False,                      
+                             'use_flashfft': False,                             
+                             'use_laughing_hyena': False,                       
+                             'inference_mode': True,                            
+                             'tokenizer_type':                                  
+                             'CharLevelTokenizer', 'prefill_style':             
+                             'fft', 'mlp_activation': 'gelu',                   
+                             'print_activations': False, 'Loader':              
+                             <class 'yaml.loader.FullLoader'>}                  
+[11/28/26 05:22:53] INFO     StripedHyena - INFO - Initializing 32  model.py:678
+                             blocks...                                          
+                    INFO     StripedHyena - INFO - Distributing     model.py:685
+                             across 1 GPUs, approximately 32 layers             
+                             per GPU                                            
+  0%|          | 0/32 [00:00<?, ?it/s]                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=0 to device='cuda:0'                     
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 0: 205571840                             
+  3%|▎         | 1/32 [00:00<00:03,  8.64it/s]                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=1 to device='cuda:0'                     
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 1: 205606912                             
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=2 to device='cuda:0'                     
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 2: 205705216                             
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=3 to device='cuda:0'                     
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 3: 205533184                             
+ 12%|█▎        | 4/32 [00:00<00:03,  8.18it/s]                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=4 to device='cuda:0'                     
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 4: 205571840                             
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=5 to device='cuda:0'                     
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 5: 205606912                             
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=6 to device='cuda:0'                     
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 6: 205705216                             
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=7 to device='cuda:0'                     
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 7: 205571840                             
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=8 to device='cuda:0'                     
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 8: 205606912                             
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=9 to device='cuda:0'                     
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 9: 205705216                             
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=10 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 10: 205533184                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=11 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 11: 205571840                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=12 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 12: 205606912                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=13 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 13: 205705216                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=14 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 14: 205571840                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=15 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 15: 205606912                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=16 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 16: 205705216                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=17 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 17: 205533184                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=18 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 18: 205571840                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=19 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 19: 205606912                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=20 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 20: 205705216                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=21 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 21: 205571840                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=22 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 22: 205606912                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=23 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 23: 205705216                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=24 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 24: 205533184                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=25 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 25: 205571840                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=26 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 26: 205606912                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=27 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 27: 205705216                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=28 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 28: 205571840                            
+ 91%|█████████ | 29/32 [00:00<00:00, 65.65it/s]                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=29 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 29: 205606912                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=30 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 30: 205705216                            
+                    INFO     StripedHyena - INFO - Assigned         model.py:703
+                             layer_idx=31 to device='cuda:0'                    
+                    INFO     StripedHyena - INFO - Parameter count  model.py:704
+                             for block 31: 205533184                            
+100%|██████████| 32/32 [00:00<00:00, 52.95it/s]
+                    INFO     StripedHyena - INFO - Initialized      model.py:723
+                             model                                              
+                    INFO     vortex.model.utils - INFO - Loading     utils.py:92
+                             /home/azureuser/.cache/huggingface/hub/            
+                             models--arcinstitute--evo2_7b/snapshots            
+                             /bda0089f92582d5baabf0f22d9fc85f3588f6b            
+                             58/evo2_7b.pt                                      
+Extra keys in state_dict: {'blocks.21.projections._extra_state', 'blocks.3.mixer.dense._extra_state', 'blocks.11.projections._extra_state', 'blocks.19.projections._extra_state', 'blocks.26.projections._extra_state', 'blocks.13.projections._extra_state', 'blocks.14.projections._extra_state', 'blocks.8.projections._extra_state', 'blocks.10.mixer.dense._extra_state', 'blocks.12.projections._extra_state', 'blocks.29.projections._extra_state', 'blocks.31.mixer.attn._extra_state', 'blocks.16.mixer.mixer.filter.t', 'blocks.28.projections._extra_state', 'blocks.7.projections._extra_state', 'blocks.13.mixer.mixer.filter.t', 'unembed.weight', 'blocks.10.mixer.attn._extra_state', 'blocks.6.mixer.mixer.filter.t', 'blocks.2.mixer.mixer.filter.t', 'blocks.9.projections._extra_state', 'blocks.23.mixer.mixer.filter.t', 'blocks.1.projections._extra_state', 'blocks.9.mixer.mixer.filter.t', 'blocks.24.mixer.attn._extra_state', 'blocks.22.projections._extra_state', 'blocks.17.mixer.dense._extra_state', 'blocks.20.projections._extra_state', 'blocks.30.projections._extra_state', 'blocks.20.mixer.mixer.filter.t', 'blocks.24.mixer.dense._extra_state', 'blocks.4.projections._extra_state', 'blocks.17.mixer.attn._extra_state', 'blocks.27.mixer.mixer.filter.t', 'blocks.2.projections._extra_state', 'blocks.31.mixer.dense._extra_state', 'blocks.3.mixer.attn._extra_state', 'blocks.5.projections._extra_state', 'blocks.15.projections._extra_state', 'blocks.0.projections._extra_state', 'blocks.6.projections._extra_state', 'blocks.16.projections._extra_state', 'blocks.30.mixer.mixer.filter.t', 'blocks.18.projections._extra_state', 'blocks.23.projections._extra_state', 'blocks.25.projections._extra_state', 'blocks.27.projections._extra_state'}
+[11/28/26 05:24:13] INFO     StripedHyena - INFO - Adjusting Wqkv  model.py:1008
+                             for column split (permuting rows)                  
+Model load: 80.5s; elapsed: 90.2s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:06<00:00,  6.02s/it]100%|██████████| 1/1 [00:06<00:00,  6.02s/it]
+Sequence 8192bp: 6.02s; elapsed: 96.3s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.23it/s]100%|██████████| 1/1 [00:00<00:00,  1.23it/s]
+Sequence 8192bp: 0.81s; elapsed: 97.1s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.23it/s]100%|██████████| 1/1 [00:00<00:00,  1.23it/s]
+Sequence 8192bp: 0.82s; elapsed: 97.9s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.23it/s]100%|██████████| 1/1 [00:00<00:00,  1.23it/s]
+Sequence 8192bp: 0.81s; elapsed: 98.7s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+Sequence 8192bp: 0.82s; elapsed: 99.5s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.23it/s]100%|██████████| 1/1 [00:00<00:00,  1.23it/s]
+Sequence 8192bp: 0.81s; elapsed: 100.3s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.82s; elapsed: 101.2s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.23it/s]100%|██████████| 1/1 [00:00<00:00,  1.23it/s]
+Sequence 8192bp: 0.81s; elapsed: 102.0s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+Sequence 8192bp: 0.82s; elapsed: 102.8s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.82s; elapsed: 103.6s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+Sequence 8192bp: 0.82s; elapsed: 104.4s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+Sequence 8192bp: 0.82s; elapsed: 105.3s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.23it/s]100%|██████████| 1/1 [00:00<00:00,  1.23it/s]
+Sequence 8192bp: 0.82s; elapsed: 106.1s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.82s; elapsed: 106.9s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+Sequence 8192bp: 0.82s; elapsed: 107.7s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+Sequence 8192bp: 0.82s; elapsed: 108.5s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 109.4s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 110.2s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 111.0s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+Sequence 8192bp: 0.82s; elapsed: 111.8s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+Sequence 8192bp: 0.82s; elapsed: 112.7s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 113.5s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 114.3s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+Sequence 8192bp: 0.82s; elapsed: 115.1s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+Sequence 8192bp: 0.82s; elapsed: 116.0s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 116.8s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 117.6s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+Sequence 8192bp: 0.82s; elapsed: 118.4s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+Sequence 8192bp: 0.82s; elapsed: 119.2s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 120.1s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 120.9s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 121.7s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 122.6s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 123.4s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 124.2s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 125.0s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 125.9s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 126.7s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]
+Sequence 8192bp: 0.83s; elapsed: 127.5s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 128.4s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+Sequence 8192bp: 0.82s; elapsed: 129.2s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 130.0s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 130.8s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 131.7s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+Sequence 8192bp: 0.82s; elapsed: 132.5s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 133.3s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 134.1s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 135.0s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 135.8s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]
+Sequence 8192bp: 0.83s; elapsed: 136.6s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 137.5s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 138.3s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 139.1s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]
+Sequence 8192bp: 0.83s; elapsed: 140.0s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 140.8s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 141.6s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 142.4s
+All 57 WT reference checks passed (or pre-authorized WARN).
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:01<00:00,  1.08s/it]100%|██████████| 1/1 [00:01<00:00,  1.08s/it]
+Sequence 8171bp: 1.08s; elapsed: 143.5s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:01<00:00,  1.03s/it]100%|██████████| 1/1 [00:01<00:00,  1.03s/it]
+Sequence 8191bp: 1.03s; elapsed: 144.6s
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:01<00:00,  1.12s/it]100%|██████████| 1/1 [00:01<00:00,  1.12s/it]
+Sequence 8210bp: 1.12s; elapsed: 145.7s
+All WT and legacy mutant checks passed (or pre-authorized WARN); begin new mutant scoring
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]
+Sequence 8192bp: 0.83s; elapsed: 146.5s
+1/57 NSV001 delta=-0.000848174095
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]
+Sequence 8192bp: 0.83s; elapsed: 147.3s
+2/57 NSV002 delta=-0.00267744064
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 148.2s
+3/57 NSV003 delta=-0.00102138519
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 149.0s
+4/57 NSV004 delta=-0.00235688686
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 149.8s
+5/57 NSV005 delta=-0.010068059
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 150.7s
+6/57 NSV006 delta=-0.00389480591
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 151.5s
+7/57 NSV007 delta=-0.00535833836
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]
+Sequence 8192bp: 0.83s; elapsed: 152.3s
+8/57 NSV008 delta=-0.00481033325
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 153.1s
+9/57 NSV009 delta=-0.00892448425
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 154.0s
+10/57 NSV010 delta=-0.00402104855
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 154.8s
+11/57 NSV011 delta=-0.00512039661
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 155.6s
+12/57 NSV012 delta=-0.00740462542
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 156.5s
+13/57 NSV013 delta=-0.00466179848
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 157.3s
+14/57 NSV014 delta=-0.00396132469
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 158.1s
+15/57 NSV015 delta=-0.00165522099
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 158.9s
+16/57 NSV016 delta=-0.00606679916
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 159.8s
+17/57 NSV017 delta=-0.00462847948
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 160.6s
+18/57 NSV018 delta=-0.000854372978
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 161.4s
+19/57 NSV019 delta=-0.00755262375
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 162.3s
+20/57 NSV020 delta=-0.00696706772
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 163.1s
+21/57 NSV021 delta=-0.00438934565
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 163.9s
+22/57 NSV022 delta=-0.00257122517
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]
+Sequence 8192bp: 0.83s; elapsed: 164.8s
+23/57 NSV023 delta=-0.0095397234
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 165.6s
+24/57 NSV024 delta=-0.0127899647
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]
+Sequence 8192bp: 0.83s; elapsed: 166.4s
+25/57 NSV025 delta=-0.00132834911
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 167.2s
+26/57 NSV026 delta=-0.00543308258
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 168.1s
+27/57 NSV027 delta=-0.00579971075
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 168.9s
+28/57 NSV028 delta=-0.00705182552
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 169.7s
+29/57 NSV029 delta=-0.00634419918
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 170.6s
+30/57 NSV030 delta=-0.00618553162
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 171.4s
+31/57 NSV031 delta=-0.0021468997
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 172.2s
+32/57 NSV032 delta=-0.00158381462
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 173.0s
+33/57 NSV033 delta=-0.00402784348
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 173.9s
+34/57 NSV034 delta=-0.00963759422
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 174.7s
+35/57 NSV035 delta=-0.00282692909
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 175.5s
+36/57 NSV036 delta=-0.00446498394
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 176.4s
+37/57 NSV037 delta=-0.00366091728
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 177.2s
+38/57 NSV038 delta=-0.0088788867
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 178.0s
+39/57 NSV039 delta=-0.00506317616
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 178.8s
+40/57 NSV040 delta=-0.00718796253
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 179.7s
+41/57 NSV041 delta=-0.00293362141
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 180.5s
+42/57 NSV042 delta=-0.00811326504
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 181.3s
+43/57 NSV043 delta=-0.00448393822
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 182.2s
+44/57 NSV044 delta=-0.00426197052
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 183.0s
+45/57 NSV045 delta=-0.00358134508
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 183.8s
+46/57 NSV046 delta=-0.00704747438
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 184.6s
+47/57 NSV047 delta=-0.00263112783
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 185.5s
+48/57 NSV048 delta=-0.0228161812
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 186.3s
+49/57 NSV049 delta=-0.00148296356
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]100%|██████████| 1/1 [00:00<00:00,  1.20it/s]
+Sequence 8192bp: 0.83s; elapsed: 187.1s
+50/57 NSV050 delta=-0.00725185871
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 188.0s
+51/57 NSV051 delta=-0.00220143795
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 188.8s
+52/57 NSV052 delta=-0.00765454769
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 189.6s
+53/57 NSV053 delta=-0.00284153223
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 190.4s
+54/57 NSV054 delta=-0.00549393892
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 191.3s
+55/57 NSV055 delta=-0.0058068037
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 192.1s
+56/57 NSV056 delta=-0.00433707237
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+Sequence 8192bp: 0.83s; elapsed: 192.9s
+57/57 NSV057 delta=-0.00397562981
+COMPLETE 57/57; save outputs and notify user. User will manually deallocate VM; AI must not stop VM.

@@ -1,0 +1,35 @@
+{
+  "reference_start": 108435549,
+  "reference_end": 108701743,
+  "reference_length": 266195,
+  "reference_sha256": "908c7f134174e6e6db6aa75243ee01c3ed098ce84f7c8d6bc46985ea83737ce9",
+  "pkl_sha256": "fa245734cc4227a446204d34f1f51b5b1e60d7c0275123741e1ce58f5eb3e1a9",
+  "legacy_script_sha256": "da1afc0d4a1baeb3891e1331891ffe216f7e0aa5ecbf7a7d12c7225258f400ee",
+  "REF_match": 57,
+  "complete_fixed_windows": 57,
+  "legacy_reference_exact_match": 57,
+  "legacy_mutant_exact_match": 57,
+  "unique_reference_windows": 57,
+  "old_mutant_length_range": [
+    8171,
+    8210
+  ],
+  "max_allele_length": 22,
+  "max_old_delta_rounding_error": 9.940795897556143e-08,
+  "controls": [
+    {
+      "variant_id": "NSV017",
+      "net_change": -21
+    },
+    {
+      "variant_id": "NSV026",
+      "net_change": -1
+    },
+    {
+      "variant_id": "NSV015",
+      "net_change": 18
+    }
+  ],
+  "planned_GPU_sequence_calls": 117,
+  "GPU_tested": false
+}
