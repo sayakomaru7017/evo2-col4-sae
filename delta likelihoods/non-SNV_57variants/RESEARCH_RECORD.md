@@ -60,6 +60,30 @@ WT/mutant両方の入力配列長を統一する旨が記載されている（�
 新旧スコアの評価・解釈・統計解析への反映は、ご指示の通りMac側で実施する。本セッションでは変異の除外や
 解析条件の判断は一切行っていない。
 
+## 原著一次資料による検証（2026-11-28 追記）
+
+Evo2原著 Nature Supplementary Information（DOI: 10.1038/s41586-026-10176-5）A.3.12 "Zero-shot variant
+scoring" を直接確認し、以下の記載を確認した（原文引用）：
+
+> "To score a variant with Evo 2, we take a genomic window of length 8,192 around the variant and
+> calculate the log-likelihood of the variant sequence normalized by the log-likelihood of the reference
+> sequence at the same position. For non-SNV variants, we also normalized to the reference sequence,
+> and for DNA models to keep the change in likelihood invariant to length we maintain the total length
+> of sequence scored to be the same regardless of the length of the variant by centering on the insertion
+> or deletion and adding or removing context nucleotides on the edges of the window."
+
+A.3.2（原核生物変異実験）にも同趣旨の記載がある：
+
+> "For the deletion variants, the 8,192 bp window was extended into the neighboring sequences to match
+> the length of the wildtype sequence (8,192 bp) to avoid any biases in the likelihoods that arise from
+> differences in sequence lengths."
+
+**結論**: 今回の再スコアリングで実装した「変異を中心に8,192bp windowを取り、window端で文脈塩基を加減して
+WT・mutant双方を常に8,192bpに統一する」という方法は、原著A.3.12・A.3.2の記載と一致している。原著に
+明記されていないのは「奇数の長さ差の余り1塩基を左右どちらに割り振るか」という実装の細部のみであり、
+本研究ではこれを「右側」と定めた（上記の通り）。この点を除き、本手法は原著のzero-shot variant scoring
+プロトコルに忠実である。
+
 ## 今後のEvo2解析における注意事項（研究記録として明記）
 
 **非SNVのzero-shot variant scoringでは、Evo2原著 Nature Supplementary Information A.3.12 に従い、
